@@ -1,7 +1,7 @@
 = Plu Glosa Nota (proto skema {revdate})
 :revdate: 2018-11-22
 
-// Last modified 201811222350
+// Last modified 201811230035
 
 == Numera 84
 
@@ -74,7 +74,7 @@ T. Edmund Harvey – u Liberali Membra de Parliamenta; e kron an pa fini stude i
 Hogben pa es an idio sekretari pro brevi tem ergo.
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 Hogben pa ergo pro Paci Societa; e po-co an pa es Sub-edito-pe pro loka nova-papira;
@@ -167,7 +167,7 @@ pa lisi; e po-co, pa gene divorci.
 Hogben pa gene game itera tem 1957 a boni ami ge-nima Jane. Mu pa viagia ad Afrika.
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 Po fini ergo in Birmingham Universita; Hogben pa gene invita de es Vice-Ministra de
@@ -249,7 +249,7 @@ revista – feno – de u lingua-bibli e u nova-papira-pe pa nima id “Hogben's
 (No-semane Disipa ex Hogben). Ron fo amo plu grafo de Profesora
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 Lancelot Hogben (inklude plu bibli “Science for the Citizen”, e “Mathematics for the
@@ -339,7 +339,7 @@ pote proto publika plu ma boni Glosa bibli in oligo lingua; po-co na pa proto ma
 difusi u lingua.
 
 
-[pagina 5:]
+(pagina 5:)
 
 
 Ex u-la tem Ron e mi pa unio ko poli ami de poli landa; e na pa fru poli hedo e amusa
@@ -435,7 +435,7 @@ ma-lati ge-ski.
                                                                                Wendy Ashby
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 === Glosa in Inter-reti
@@ -546,13 +546,15 @@ lingua-skience-pe.
                                                                            Marcel Springer
 
 
-[pagina 7:]
+(pagina 7:)
 
 
 [pikto: urba kon kastela]
 
 === Un Urba Kon U Kastela
 
+[verse]
+____
 Infra alti tesku
 Plu buna, agri, agri-lo
 Longi baso lito, plu domi skapa a skapa,
@@ -635,16 +637,18 @@ Subito, solo plati libela a dista vide
 Subito, solo u mari
 Nuli tako turba peti pulsa voci
 Pan es paci
+____
 
 
-      Ex Sid Pidd
-         Scarborough, England.
+Ex Sid Pidd
+
+Scarborough, England.
 
 Plu komenta:–
-Teska – alti, no ge-kulti-lo, aqa tera, paluda. Ex Latino tescum.
-Deklivi – klina kata. Ex Latino declivis.
-Rubeola – homo u rubi. Es skience-Latino lexi deriva ex Latino rubeus.
 
+- Teska – alti, no ge-kulti-lo, aqa tera, paluda. Ex Latino tescum.
+- Deklivi – klina kata. Ex Latino declivis.
+- Rubeola – homo u rubi. Es skience-Latino lexi deriva ex Latino rubeus.
 
 === Plu Inter-reti Pagina
 
@@ -658,7 +662,7 @@ Mi nu-pa proto face plu Glosa Plu Inter-reti-pagina; place visita mu:
 
 
 
-[pagina 8:]
+(pagina 8:)
 
 
 Enigma Pagina: place vide http://www.glosa.org/pic/pgn084_enigm.png
@@ -740,12 +744,12 @@ gene fo kali.
 Mi dice itera; mega gratia a panto Glosa-pe; na spe oligo tu fu visita e auxi na in
 futuri.
 
-                                                    Sr. Banobi Herbert, Rukungiri, Uganda.
+Sr. Banobi Herbert, Rukungiri, Uganda.
 
 
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 === Uganda
@@ -817,10 +821,11 @@ Mi dice poli gratia a panto Glosa-ami qi pa grafo plu gluko grama po gene mu kop
 
 Plu buta de PGN es de:
 
-1. Monstra id es posi de grafo de ali tema per Glosa. Seqe-co, na pa inklude plu artikla
-de poli tema inklude skience, teknologi e komercia; e plus-co, poesi e plu stori. Oligo mu
-ur-ge-grafo in Glosa e plu hetero mu ge-translati ex plu famo grafo-pe de plu hetero
-landa.
+1. Monstra id es posi de grafo de ali tema per Glosa. Seqe-co, na pa
+   inklude plu artikla de poli tema inklude skience, teknologi e
+   komercia; e plus-co, poesi e plu stori. Oligo mu ur-ge-grafo in
+   Glosa e plu hetero mu ge-translati ex plu famo grafo-pe de plu
+   hetero landa.
 2. Ofere kambio de info inter plu Glosa-ami.
 3. Dona info de Glosa progresi, plu aktivi e nova ex peri Geo.
 
@@ -840,7 +845,7 @@ mi pote bali mu PGN 84.
 
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 === Universita de Eva Tri
@@ -859,15 +864,24 @@ mira; mu pa pote lekto e logi plu artikla in PGN pre mu klu skope plu lexi-lista
 es fo hedo oligo di po-co de gene u gratia-grama; ge-grafo in boni Glosa ex mo mero-pe. Ci
 es mero de id.
 
-Karo Wendy,
-   U-ci es mi prima grama in Glosa! ........
-Gratia mega de tu forti stimula sko.
-   Na omni pa fo-amo tu sko. Id pa es u forti hedo tem; omni na pa gene ski mega. U
-subjekti pa fascina na; e plus-co pa es neo pro na.
-   Fini-co, gratia itera de panto-ra.
-      plu ami saluta
-         ex Rosemary
+// XXX TODO -- Qo-ka es plu punkta poste "Glosa!"?
 
+____
+Karo Wendy,
+
+U-ci es mi prima grama in Glosa! ........
+
+Gratia mega de tu forti stimula sko.
+
+Na omni pa fo-amo tu sko. Id pa es u forti hedo tem; omni na pa gene ski mega. U
+subjekti pa fascina na; e plus-co pa es neo pro na.
+
+Fini-co, gratia itera de panto-ra.
+
+plu ami saluta
+
+ex Rosemary
+____
 
 
 
@@ -959,7 +973,7 @@ ____
 
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 === Grama ex Ruski
@@ -983,8 +997,9 @@ fini-vokali.
 Mi puta in futuri u Glosa-lingua fu es fo ge-amo de poli homi e mu fu uti id.
 
 Saluta
-      ex Alexander Kirpichev,
-         Moskvo, Ruski
+
+ex Alexander Kirpichev,
+Moskvo, Ruski
 
 
 
@@ -1057,12 +1072,12 @@ oligo verba-lista e pikto-pagina de plu certo tema; plu-ci auxi ma-mega tu vokab
 Glosa veri es u facili e boni lingua; posi na nece tenta publika id per klu ma boni e
 simpli mode; pro plu Euro-pe. Inter-tem, na habe PGN pro kambio de plu idea.
 
-      Poli saluta ex Wendy
+Poli saluta ex Wendy
 
 
 
 
-[pagina 5:]
+(pagina 5:)
 
 
 === Grama ex London
@@ -1075,6 +1090,8 @@ Mi pa este fo emotio tem lekto u kali artikla de Ron; e id es boni de vide an pi
 Un ultima kron mi pa vide an pa es tem skope ex mi vagona; tu e Ron pa tako gresi longi
 pedi-via ex Richmond urba. Mali-fortuna kausa de poli vagona; mi ne pa pote sto e dice ko
 tu.
+
+// XXX TODO -- nexu:
 
 ......... PGN 84 re-sti mi interese in Glosa.
 Mi spe; nu-fu vide tu itera.
@@ -1119,7 +1136,7 @@ an fo freqe. Anti-co, po trauma de u lose de Ron an pa volu auxi itera difusi Gl
 memo an pro an humoro, an sensitivi, an ami ko panto-pe; e an pa es u fo spiritu-an. Na
 bali plu kondole ad an famili e plu ami.
 
-      Wendy Ashby
+Wendy Ashby
 
 
 
@@ -1174,7 +1191,7 @@ mo manuface-pe de vesti-lava-ma ne pa memo de versi plu seqe de “pre” e “p
 fotografi in mu Arabi publika-ma. Seqe-co, plu Arabi-pe qi lekto ex dextro a
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 laevo; pa vide plu ge-lava-vesti ki ad in lava-me – e po-co, mu pa veni ex no-ge-lava!
@@ -1208,14 +1225,17 @@ de auto grafo-mode.”
 
 Poli radi es eqa internatio ge-ski. Exempla:
 
-Latin          Grek            Latin      Grek
-semi, demi     hemi            multi      poli
-eqa            iso             uni        mono
-omni           pan             aqa        hidro
-rapidi         tako            femina     gina
-ambi           amfi            mini       mikro
-kolori         kroma           nomina     nima
-verba          lexi            lingua     glosa
+|===
+| Latin          | Grek            | Latin      | Grek
+
+| semi, demi     | hemi            | multi      | poli
+| eqa            | iso             | uni        | mono
+| omni           | pan             | aqa        | hidro
+| rapidi         | tako            | femina     | gina
+| ambi           | amfi            | mini       | mikro
+| kolori         | kroma           | nomina     | nima
+| verba          | lexi            | lingua     | glosa
+|===
 
 Poli Euro-lingua tena ambi plu Latin e Grek lexi; e poli-pe fo amo uti plu-ci lexi in mu
 singu di dice. Su-toto mu es fo ge-amo de plu demo de France e Deutschlanda. Exempla; in
@@ -1237,13 +1257,16 @@ Te translati mikro-metri pe habe exempla: mini- (Latin) simi in minijupe alo min
 micro- (Grec) in micro-onde alo microclimat sed, fo qestio, bi-ci prefixa ne gene
 inter-ge-muta. ..... U-ci kompeti dura existe klu si pe uti bi radi in mo lexi.
 
-Grek                     Latin
-héliotrope               tournesol
-hémicycle                demi-cercle
-monochrome               unicolore
-panchromatique           omnicolore
-polymorphe               multiforme
-tétragone                quadrangulaire
+|===
+| Grek                     | Latin
+
+| héliotrope               | tournesol
+| hémicycle                | demi-cercle
+| monochrome               | unicolore
+| panchromatique           | omnicolore
+| polymorphe               | multiforme
+| tétragone                | quadrangulaire
+|===
 
 Glosa es foneti; e posi u neo stude-pe ne fu rekogni u Glosa lexi tem proto vista de id.
 Exempla: Kroma (chroma), amfi (amphi), morfa (morpha), hidro (hydro), etc. Anti-co, foneti
@@ -1287,7 +1310,7 @@ kardia-pato.
 
 
 
-[pagina 7:]
+(pagina 7:)
 
 
 Ci es mi musika de u poesi “Kosmo Glosa”.
@@ -1305,17 +1328,21 @@ fotografi; fe kanto ko mi, mi gina Barbara e fe ma-juve sorori Suzannah.
 [pikto de Miller famili]
 
 Place grafo a fe: Johannah Miller
+....
 409-7 Ave NW,
 Mandan ND.
 58554-2522, USA.
 E-posta: [E-grama adresa de Gary homo PNG-imagi]
+....
+
 A tu veri
-   Gary Miller.
+
+Gary Miller.
 
 [grafo de Glosa-Marca]
 
 
-[pagina 8:]
+(pagina 8:)
 
 
 Enigma Pagina: place vide http://www.glosa.org/pic/pgn085_enigm.png
@@ -1425,7 +1452,7 @@ pa gene no-depende ex Danmark tem 1944. U Danmark-lingua es lingua-bi de poli Is
 Un Islanda-lingua pa muta fo pusi; seqe-co, plu persona dura pote lekto plu paleo
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 stori (Saga); e plu-ci stori pa gene grafo ma de 700 anua retro. Plura-pe nima u lingua
@@ -1436,21 +1463,24 @@ gene sko . Un alfabeta tena 34 litera; id inklude plu hetero vokali e konsonanta
 oligo Islanda lexi:
 
 
-Islanda       Glosa        English       Deutsch
-Já            Ja           Yes           Ja
-Nei           No           No            Nein
-Dag           Di           Day           Tag
-Í dag         Nu-di        Today         Heute
-Á morgun      Fu-di        Tomorrow      Morgen
-Takk          Gratia       Thank you     Danke
-Einn          Mo           One           Ein
-Tveir         Bi           Two           Zwei
-Prír          Tri          Three         Drei
-Gjá           Fisu         Rift, fissure Spalte
-Eyja          Nesia        Island        Insel
-Reykja        Fumi         Smoke         Rauch
-Flúgvöllur    Aeroporta    Airport       Flughafen
-Simi          Telefono     Telephone     Fernsprecher
+|===
+| Islanda       | Glosa        | English       | Deutsch
+
+| Já            | Ja           | Yes           | Ja
+| Nei           | No           | No            | Nein
+| Dag           | Di           | Day           | Tag
+| Í dag         | Nu-di        | Today         | Heute
+| Á morgun      | Fu-di        | Tomorrow      | Morgen
+| Takk          | Gratia       | Thank you     | Danke
+| Einn          | Mo           | One           | Ein
+| Tveir         | Bi           | Two           | Zwei
+| Prír          | Tri          | Three         | Drei
+| Gjá           | Fisu         | Rift, fissure | Spalte
+| Eyja          | Nesia        | Island        | Insel
+| Reykja        | Fumi         | Smoke         | Rauch
+| Flúgvöllur    | Aeroporta    | Airport       | Flughafen
+| Simi          | Telefono     | Telephone     | Fernsprecher
+|===
 
 
 
@@ -1526,10 +1556,10 @@ U pa histori de Glastonbury es ge-nexu ko Tor; qi domina u viki. U Tor es u famo
 kolina; id habe auto idio e sti mira koni forma; qi pa gene face per kombina de plu
 geologi, agrikulti e religio aktivi. Id alti es 155 metri supra mari libela.
 
-                                      (Glastonbury)
+(Glastonbury)
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 Pre poli anua, posi tem Centi Anua Nona; pe pa tekto u domi-fa qi pa es u monako-do epi
@@ -1596,9 +1626,7 @@ denke dass…. na ne grafo u lexi pro that, que alo dass.
 
 Na grafo: Mi puta;….
 
-We think that Glosa is an easy language.
-
-\= Na doxo; Glosa es u facili lingua.
+We think that Glosa is an easy language. = Na doxo; Glosa es u facili lingua.
 
 In English tako-dice; pe freqe ne dice “that”. Exempla; na freqe dice:
 
@@ -1646,27 +1674,29 @@ Ci es mero ex Deutsch; ex gradu 8, pagina 39
 
 === Das Haus – ein paar Phrasen / Wendungen
 
-Merka / vendo tu domi      dein Haus kaufen / verkaufen
-Eko in neo domi            in ein neues Haus umziehen (in...wohnen)
-Prende un hipoteka         eine Hypothek aufnehmen
-Tem-habe u domi            ein Haus mieten
-Proprie-pe.                Eigentümer.
-Tem eko-pe                 Mieter
-Domi-fe                    Hausfrau
-Brosa kuko-ka pedi-lo      den Küchenboden fegen
-Sistema u sedi-ka          das Wohnzimmer aufräumen
-Puri u tape                den Teppich saugen
-In ante-ka                 im Vorderzimmer
-poste-ka                   Hinterzimmer
-Ki ana / ki kata           nach oben / unten gehen
-Klavi u porta              die Tür verschliessen
-No-klavi u porta           die Tür aufschliessen
-Klude / apri u fenestra    das Fenster schließen / öffnen
+|===
+| Merka / vendo tu domi      | dein Haus kaufen / verkaufen
+| Eko in neo domi            | in ein neues Haus umziehen (in...wohnen)
+| Prende un hipoteka         | eine Hypothek aufnehmen
+| Tem-habe u domi            | ein Haus mieten
+| Proprie-pe.                | Eigentümer.
+| Tem eko-pe                 | Mieter
+| Domi-fe                    | Hausfrau
+| Brosa kuko-ka pedi-lo      | den Küchenboden fegen
+| Sistema u sedi-ka          | das Wohnzimmer aufräumen
+| Puri u tape                | den Teppich saugen
+| In ante-ka                 | im Vorderzimmer
+| poste-ka                   | Hinterzimmer
+| Ki ana / ki kata           | nach oben / unten gehen
+| Klavi u porta              | die Tür verschliessen
+| No-klavi u porta           | die Tür aufschliessen
+| Klude / apri u fenestra    | das Fenster schließen / öffnen
+|===
 
 
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 ... In ge-printa PGN, sed minus in u-ci HTML-versio: "Tri Andro in Navi" ex Jerome K.
@@ -1676,7 +1706,7 @@ vide http://www.glosa.org/dt/g18s.htm. ...
 
 
 
-[pagina 5:]
+(pagina 5:)
 
 
 ... In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski "18 Gradu", vide http://
@@ -1685,7 +1715,7 @@ www.glosa.org/brevi/ru18s.htm. ...
 
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 === Teknologi-Glosa
@@ -1710,86 +1740,87 @@ amo gene plu idea e auxi de grafo e expande u seqe lista.
 
 (mus)
 
-English                        Glosa
-Hard drive                     Dura disko-me
-Floppy drive                   Flexi disko-me
-Compact disc                   Kompakti disko
-Floppy disk                    Flexi disko
-Plastic case                   Plastika tegu
-Disk guard                     Disko alexi-ra
-Hub                            Meso-me
-Locked disk                    Ge-klude disko
+|===
+| English                        | Glosa
+
+| Hard drive                     | Dura disko-me
+| Floppy drive                   | Flexi disko-me
+| Compact disc                   | Kompakti disko
+| Floppy disk                    | Flexi disko
+| Plastic case                   | Plastika tegu
+| Disk guard                     | Disko alexi-ra
+| Hub                            | Meso-me
+| Locked disk                    | Ge-klude disko
+|===
 
 
 (disko)
 
-Corrupt disk             Ge-noku disko
-Chip                     Mika
-Hardware                 mekani
-Software, programme      Programa
-Run a programme          Uti u programa
-Modem                    Modem
-Desk Top Publishing      Tabla publika
-Keyboard                 Klavi-taba
-Key in                   Klavi in
-Upper case               Plu mega litera
-Lower case               Plu pusi litera
-Alt key                  Alt klavi
-Control key              Kontrola klavi
-Mouse                    Mus
-Mouse mat                Mus tape
-Mouse button             Mus butona
-Left / right             Laevo / dextro
-Light detector           Foto detekti-me
-Curser                   Indika-ra
-Click, press             Piezo
-                         Klik (onomatopoeia)
-
-English                  Glosa
-Drag                     Trakto
-Monitor                  Monito-me
-Screen                   Skuta
-Speaker                  Audi-me
-Scanner                  Skana-me
-Flatbed scanner          Plati skana-me
-Drum scanner             Kilindra skana-me
-Power / speed            Dinamo / tako
-Data base                Data basi
-Work station (desk)      Ergo-mo
-Printer                  Tipo-me
-Load the paper           Loka u papira in
-Digital                  Digi
-Analog                   Analogi
-Memory                   Memo-me
-Internet                 Inter-reti
-Network                  Reti
-Web site                 Inter-reti eko-lo
-Home page                Duce-pagina
-Server                   Servi-pe
-User/ end user           Uti-pe
-Make back up             Face kopi-bi
-                           (alo Face sekuri kopi)
-Send E-mail              Bali E-posta
-Receive a fax            gene u fax
-Start / stop             Sti / sto
-Up-grade the system      Ma-dinami u sistema
-Format a disk            Formati u disko
-Open / close a window    Apri / klude u fenestra
-Main window              Duce fenestra
-Sound card               Soni-karta
-Record                   Registra
-Save a file              Salva u dokumenta
-Tutorial                 Doci-programa
-Desk top                 Grafo-mo
-Delete                   apo
-Find and replace         Cerka e vice
-Password                 Kripto-nima
-Tool box                 Ru-teka
-Text frame               textu-qadra
-
+|===
+| English                  | Glosa
+| Corrupt disk             | Ge-noku disko
+| Chip                     | Mika
+| Hardware                 | mekani
+| Software, programme      | Programa
+| Run a programme          | Uti u programa
+| Modem                    | Modem
+| Desk Top Publishing      | Tabla publika
+| Keyboard                 | Klavi-taba
+| Key in                   | Klavi in
+| Upper case               | Plu mega litera
+| Lower case               | Plu pusi litera
+| Alt key                  | Alt klavi
+| Control key              | Kontrola klavi
+| Mouse                    | Mus
+| Mouse mat                | Mus tape
+| Mouse button             | Mus butona
+| Left / right             | Laevo / dextro
+| Light detector           | Foto detekti-me
+| Curser                   | Indika-ra
+| Click, press             | Piezo / Klik (onomatopoeia)
+| Drag                     | Trakto
+| Monitor                  | Monito-me
+| Screen                   | Skuta
+| Speaker                  | Audi-me
+| Scanner                  | Skana-me
+| Flatbed scanner          | Plati skana-me
+| Drum scanner             | Kilindra skana-me
+| Power / speed            | Dinamo / tako
+| Data base                | Data basi
+| Work station (desk)      | Ergo-mo
+| Printer                  | Tipo-me
+| Load the paper           | Loka u papira in
+| Digital                  | Digi
+| Analog                   | Analogi
+| Memory                   | Memo-me
+| Internet                 | Inter-reti
+| Network                  | Reti
+| Web site                 | Inter-reti eko-lo
+| Home page                | Duce-pagina
+| Server                   | Servi-pe
+| User/ end user           | Uti-pe
+| Make back up             | Face kopi-bi (alo Face sekuri kopi)
+| Send E-mail              | Bali E-posta
+| Receive a fax            | gene u fax
+| Start / stop             | Sti / sto
+| Up-grade the system      | Ma-dinami u sistema
+| Format a disk            | Formati u disko
+| Open / close a window    | Apri / klude u fenestra
+| Main window              | Duce fenestra
+| Sound card               | Soni-karta
+| Record                   | Registra
+| Save a file              | Salva u dokumenta
+| Tutorial                 | Doci-programa
+| Desk top                 | Grafo-mo
+| Delete                   | apo
+| Find and replace         | Cerka e vice
+| Password                 | Kripto-nima
+| Tool box                 | Ru-teka
+| Text frame               | textu-qadra
+|===
 
 
-[pagina 7:]
+(pagina 7:)
 
 
 === Plu Mega Litera
@@ -1913,7 +1944,7 @@ seqe-co, auxi plu ago-pe reakti ma tosto.
 
 
 
-[pagina 8:]
+(pagina 8:)
 
 
 
@@ -2043,31 +2074,34 @@ tena mu logi de id minus un influ de plu lexi de English.
 
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 ==== Oligo Kweyol lexi
 
-Kwéyòl            Glosa
-Bon Jou           Boni di
-Byen vini         Bene veni
-Alé               Ki
-Mèsi              Gratia
-Mwen              Mi
-Ou                Tu
-Nou               Na
-Yè                Pa-di
-Jòdi-a            Nu-di
-Denmen            Fu-di
-Sent Lisi Bèl.    Sankti Lucia es kali.
+|===
+| Kwéyòl            | Glosa
+
+| Bon Jou           | Boni di
+| Byen vini         | Bene veni
+| Alé               | Ki
+| Mèsi              | Gratia
+| Mwen              | Mi
+| Ou                | Tu
+| Nou               | Na
+| Yè                | Pa-di
+| Jòdi-a            | Nu-di
+| Denmen            | Fu-di
+| Sent Lisi Bèl.    | Sankti Lucia es kali.
+|===
 
 Simi Glosa, plu klavi-lexi (verb) de Kweyol habe zero flexi. Te forma u tem; pe dice u
 brevi lexi pre u klavi-lexi.
 
 Exempla: “té” = pa; “ka” = nu; e “kay” = fu.
-   Mw_ té-alé =     Mi pa ki.
-   Mw_ ka-alé =    Mi nu ki
-   Mw_ kay-alé =   Mi fu ki.
+- Mw_ té-alé =     Mi pa ki.
+- Mw_ ka-alé =    Mi nu ki
+- Mw_ kay-alé =   Mi fu ki.
 
 
 
@@ -2187,7 +2221,7 @@ Cardiff, Cymru.
 
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 R\. In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
@@ -2196,29 +2230,32 @@ Glosa lista na habe plu alo nima pro plu meno e plu di, mu es ci.
 
 .Plu Meno
 
-Meno-mo       Januari
-Meno-bi       Februari
-Meno-tri      Mars
-Meno-tetra    Aprili
-Meno-penta    Mai
-Meno-sixa     Juni
-Meno-septi    Juli
-Meno-okto     Augusta
-Meno-nona     Septembra
-Meno-deka     Oktobra
-Meno-mo-mo    Novembra
-Meno mo-bi    Decembra
+|===
+| Meno-mo       | Januari
+| Meno-bi       | Februari
+| Meno-tri      | Mars
+| Meno-tetra    | Aprili
+| Meno-penta    | Mai
+| Meno-sixa     | Juni
+| Meno-septi    | Juli
+| Meno-okto     | Augusta
+| Meno-nona     | Septembra
+| Meno-deka     | Oktobra
+| Meno-mo-mo    | Novembra
+| Meno mo-bi    | Decembra
+|===
 
 
 .Plu Di
-
-Di-mo       Dominika-di.
-Di-bi       Luna-di
-Di-tri      Mars-di
-Di-tetra    merkuri-di
-Di-penta    Jovis-di
-Di-sixa     Venus-di
-Di-septi    Saturna-di
+|===
+| Di-mo       | Dominika-di.
+| Di-bi       | Luna-di
+| Di-tri      | Mars-di
+| Di-tetra    | merkuri-di
+| Di-penta    | Jovis-di
+| Di-sixa     | Venus-di
+| Di-septi    | Saturna-di
+|===
 
 
 Simi poli natio-lingua Glosa habe plu sinonima. Vide un artikla de plu sinonima de Glosa
@@ -2320,7 +2357,7 @@ Glosa famili in USA freqe translati plu-ra ad in Glosa. An nu-pa bali brevi stor
 in epi pagina 7 de u-ci PGN.
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 === Lingua de plu Fito
@@ -2453,7 +2490,7 @@ terapi profito.
 
 
 
-[pagina 5:]
+(pagina 5:)
 
 
 Hidrangea Greko (hydor- Eng. water e -aggos a jar. Refere a plu frukti; mu habe forma de
@@ -2582,7 +2619,7 @@ dendro e plu hetero fito.
 
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 === Kura pro plu Fito
@@ -2591,16 +2628,16 @@ Pro poli persona u proto experie mu habe de kura pro u fito es kron mu gene mo p
 
 Es tri duce speci persona qi merka plu fito.
 
- 1. U persona qi merka id pro idio dora. Exempla posi pro mu tanta; qi es in pato-do; alo
-    pro fe nati-di. E pe dice a se; O! mi fu merka u kali domi-fito pro mi karo tanta.
-
- 2. U persona qi amo visita plu mega horti-centra alo fito-bo; e qi dice a se, O! mi fo
-    amo u-la fito; mi ski zero-ra de id alo komo de kura pro id; anti-co id feno ta kali;
-    mi fu merka id.
-
- 3. U persona qi habe mega interese de plu fito e horti-ergo; e qi stude u-la tema. U-ci
-    persona decide u maxi gru fito pro u certa loka intra alo extra mu domi. Po-co, mu
-    visita u boni horti-centra e cerka u-la idio fito.
+1. U persona qi merka id pro idio dora. Exempla posi pro mu tanta; qi
+   es in pato-do; alo pro fe nati-di. E pe dice a se; O! mi fu merka u
+   kali domi-fito pro mi karo tanta.
+2. U persona qi amo visita plu mega horti-centra alo fito-bo; e qi
+   dice a se, O! mi fo amo u-la fito; mi ski zero-ra de id alo komo de
+   kura pro id; anti-co id feno ta kali; mi fu merka id.
+3. U persona qi habe mega interese de plu fito e horti-ergo; e qi
+   stude u-la tema. U-ci persona decide u maxi gru fito pro u certa
+   loka intra alo extra mu domi. Po-co, mu visita u boni horti-centra
+   e cerka u-la idio fito.
 
 Poli fito qi gene merka ex persona 1 alo 2 posi fu tako lose bio; kausa probabli mu ne
 gene sati boni kura; alo posi mu gene loka in fo no-gru topo. Exempla; kron u tanta veni
@@ -2698,7 +2735,7 @@ detekti epi panto-la navi. Glosa-pe; fo voci!
 Gary Miller, Mandan, USA.
 
 
-[pagina 7:]
+(pagina 7:)
 
 
 
@@ -2835,7 +2872,7 @@ Pa es tanto ple de somni u-la momenta;
 Kron mi pa abandon u veri via.
 ____
 
-[pagina 8:]
+(pagina 8:)
 
 
 
@@ -2940,7 +2977,7 @@ ex Sr. Rainer Asenkerschbaumer.
 (Wendy Ashby e plu ami dice pro filma)
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 ==== Liliana Cavani – grafo-pe
@@ -3041,7 +3078,7 @@ fo ge-amo ko plu-la persona; qi amusa se de grafo poesi, literature e plu komple
 lexi-enigma. Pe es libe de uti idio grafo-mode;
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 e tem ma civi ex poli landa uti Glosa; id fu dura de develop e kresce id idio mode. Si pe
@@ -3154,7 +3191,7 @@ Sr. Ron Clark ko an Glosa “Western Daily Press”
 
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 === Un Hedo Andro
@@ -3279,7 +3316,7 @@ Mi pa dice ad an de mi problema; e an pa petitio mi de veni in an domi. An pa ek
 domi de Espania; kon u ge-pave-lo. An konsili-ka qi pa duce ex
 
 
-[pagina 5:]
+(pagina 5:)
 
 
 id; pa es ge-spora per poli bibli, papira plu medika-me e poli hetero-ra. U-ci vista posi
@@ -3435,7 +3472,7 @@ ____
 
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 === Plu Kondimenta
@@ -3550,7 +3587,7 @@ mero zingiber radi ad in tea-va. Po circa penta minuta fusi ad in tasa; e mixa k
 mero citru-suku e meli.
 
 
-[pagina 7:]
+(pagina 7:)
 
 
 === Sporta ko Glosa
@@ -3566,32 +3603,35 @@ U-ci carta monstra qanto karta de singu litera; e in kolumni tri; monstra u valu
 litera.
 
 
-Litera     Numera    Valu
-A               8       1
-B               2       4
-C               2       6
-D               3       2
-E               7       1
-F               2       6
-G               3       2
-H               2      10
-I               6       1
-J               1       6
-K               3       4
-L               2       4
-M               3       4
-N               3       4
-O               7       1
-P               3       4
-Q               1       8
-R               3       4
-S               4       4
-T               4       2
-U               6       1
-V               1       6
-X               1       8
-Z               1       8
-Blank           2
+|===
+| Litera | Numera | Valu
+
+| A      |      8 |    1
+| B      |      2 |    4
+| C      |      2 |    6
+| D      |      3 |    2
+| E      |      7 |    1
+| F      |      2 |    6
+| G      |      3 |    2
+| H      |      2 |   10
+| I      |      6 |    1
+| J      |      1 |    6
+| K      |      3 |    4
+| L      |      2 |    4
+| M      |      3 |    4
+| N      |      3 |    4
+| O      |      7 |    1
+| P      |      3 |    4
+| Q      |      1 |    8
+| R      |      3 |    4
+| S      |      4 |    4
+| T      |      4 |    2
+| U      |      6 |    1
+| V      |      1 |    6
+| X      |      1 |    8
+| Z      |      1 |    8
+| Blank  |      2 |
+|===
 
 
 === Lexi-Skala
@@ -3609,18 +3649,20 @@ U vikto-pe es u-la persona qi tekto u maxi alti skala.
 
 Infra es un exempla proto ko litera T.
 
-   T
-   T U
-   T E M
-   T A C I
-   T A B L A
-   T U N E L I
-   T R I B U N A
-   T E M P E S T U
-   T E K N O L O G I
-   T R A N S V E R S A
-   T E R M O D I N A M O
-   T R I G O N O M E T R I
+....
+T
+T U
+T E M
+T A C I
+T A B L A
+T U N E L I
+T R I B U N A
+T E M P E S T U
+T E K N O L O G I
+T R A N S V E R S A
+T E R M O D I N A M O
+T R I G O N O M E T R I
+....
 
 
 
@@ -3680,7 +3722,7 @@ te tena na ante
 http://www.rightlivelihood.org
 
 
-[pagina 8:]
+(pagina 8:)
 
 
 
@@ -3785,7 +3827,7 @@ duce oficiali-pe akti te solve u-ci tako kresce problema?
 
 
 
-[pagina 2:]
+(pagina 2:)
 
 
 === Plu qestio e reakti
@@ -3895,7 +3937,7 @@ Wendy
 
 
 
-[pagina 3:]
+(pagina 3:)
 
 
 === Plu ge-face lingua
@@ -4017,7 +4059,7 @@ de id histori e de id nu stato. Id es u bibli; qi fu interese poli Glosa-pe si m
 pa vide id.
 
 
-[pagina 4:]
+(pagina 4:)
 
 
 // XXX TODO --
@@ -4026,7 +4068,7 @@ pa vide id.
 MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc. ...
 
 
-[pagina 5:]
+(pagina 5:)
 
 === U pusi ju-fe de u mari
 
@@ -4121,28 +4163,29 @@ U-ci es ge-brevi ex Portuguese stori “A Menina do Mar” ge-grafo ex Sofia de 
 
 (zoa Kinosterno) (piski)
 
-Portuguese    English          Francais         Glosa
-nascer        to be born       naitre           ge-nati
-ter           have             avoir            habe
-gaivota       seagull          mouette          Larus
-trazer        bring            apporter         fero
-por           to put, place    metre            loka
-cozinheira    cook             la cuisiniere    kuko-pe
-comida        food             nourriture       sito
-sopa          soup             soupe            supa
+|===
+| Portuguese    | English          | Francais         | Glosa
 
-Portuguese    English          Francais         Glosa
-receita       recipe           recette          formula
-nadar         swim             nager            nekto
-braco         arm              bras             braki
-castigar      punish           punir            puni
-bonito        beautiful        beau, belle      kali
-planicie      plain            plaine           plati-lo
-chorar        cry, weep        pleurer          lakrima
-gritar        cry, shout       crier            voci
+| nascer        | to be born       | naitre           | ge-nati
+| ter           | have             | avoir            | habe
+| gaivota       | seagull          | mouette          | Larus
+| trazer        | bring            | apporter         | fero
+| por           | to put, place    | metre            | loka
+| cozinheira    | cook             | la cuisiniere    | kuko-pe
+| comida        | food             | nourriture       | sito
+| sopa          | soup             | soupe            | supa
+| receita       | recipe           | recette          | formula
+| nadar         | swim             | nager            | nekto
+| braco         | arm              | bras             | braki
+| castigar      | punish           | punir            | puni
+| bonito        | beautiful        | beau, belle      | kali
+| planicie      | plain            | plaine           | plati-lo
+| chorar        | cry, weep        | pleurer          | lakrima
+| gritar        | cry, shout       | crier            | voci
+|===
 
 
-[pagina 6:]
+(pagina 6:)
 
 
 === U ski de u tetra-anua ju-pe
@@ -4270,22 +4313,24 @@ krati-me sio funktio simi u paleo vagona.
 12. Pe nece presi u “sti” butona te sto u makina.
 
 
-                                     Brevi lexi-lista
+=== Brevi lexi-lista de plu lexi ge-uti epi u-ci pagina.
 
-                           De plu lexi ge-uti epi u-ci pagina.
+// XXX TODO -- Sti solo bi kolumni:
 
+|===
+| Glosa          | English         | Glosa       | English
 
-Glosa          English         Glosa       English
-doci-fe        teacher         anti        versus
-bali           send            puta-me     computer
-profesio-pe    professional    ago         to drive
-no-plika       unfold          krasc       crash
-girafa         giraffe         tako-via    free-way
-frigi-me       refrigerator    uno-ra      something
-elefa          elephant        fo luxu     deluxe
-an-regi        king            carta-fa    set of maps
-ero            wrong           no-gravi    doesn't matter
-falsi          disprove
+| doci-fe        | teacher         | anti        | versus
+| bali           | send            | puta-me     | computer
+| profesio-pe    | professional    | ago         | to drive
+| no-plika       | unfold          | krasc       | crash
+| girafa         | giraffe         | tako-via    | free-way
+| frigi-me       | refrigerator    | uno-ra      | something
+| elefa          | elephant        | fo luxu     | deluxe
+| an-regi        | king            | carta-fa    | set of maps
+| ero            | wrong           | no-gravi    | doesn't matter
+| falsi          | disprove        |             |
+|===
 
 
 
@@ -4432,22 +4477,26 @@ Te vide u-ci brevi stori kon Espanol translati visita: http://www.glosa.org/brev
 [pikto: larva ko akademi-kefa-ve]
 
 
-=== Brevi lexi-lista
 
-                           De plu lexi ge-uti epi u-ci pagina.
+=== Brevi lexi-lista de plu lexi ge-uti epi u-ci pagina
 
-Glosa          English            Glosa       English
-inter-reti     Internet           bali        send
-eko-lo         web site           sfinx       sphinx
-duce-pagina    home page          kripto      secret
-elekti         vote               miria-pe    millionaire
-civi           citizen            egoisti     selfish
-data basi      data base          giga        giant
+// XXX TODO -- Sti solo bi kolumni:
+
+|===
+| Glosa          | English            | Glosa       | English
+
+| inter-reti     | Internet           | bali        | send
+| eko-lo         | web site           | sfinx       | sphinx
+| duce-pagina    | home page          | kripto      | secret
+| elekti         | vote               | miria-pe    | millionaire
+| civi           | citizen            | egoisti     | selfish
+| data basi      | data base          | giga        | giant
+|===
 
 
 // XXX TODO -- nexu u PGN 86
 
-                    Vide ma longi lista de plu puta-me lexi in PGN 86
+Vide ma longi lista de plu puta-me lexi in PGN 86
 
 
 

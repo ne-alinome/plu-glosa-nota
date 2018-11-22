@@ -1,3 +1,9 @@
+= Plu Glosa Nota (proto skema {revdate})
+:revdate: 2018-11-22
+
+== Numera 84
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota [Glosa logo]                 ┃
 ┃                                                             ┃
@@ -10,6 +16,7 @@
 
 Numera 84                       Mai / Juni 2001                             ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
 Bi sti mira-andro de Glosa
 
@@ -24,7 +31,7 @@ alo Hogben alo Clark.
 
 Profesora Lancelot Hogben
 
-                                 [pikto de Hogben bibli]
+[pikto de Hogben bibli]
 
 Profesora Lancelot Hogben pa gene nati Decembra 9, 1895; plu parenta pa nima an po
 Metodisti religio doci-pe u Reverend Lancelot Railton. Plu parenta famili pa veni ex
@@ -62,7 +69,7 @@ T. Edmund Harvey – u Liberali Membra de Parliamenta; e kron an pa fini stude i
 Hogben pa es an idio sekretari pro brevi tem ergo.
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
 Hogben pa ergo pro Paci Societa; e po-co an pa es Sub-edito-pe pro loka nova-papira;
@@ -155,7 +162,7 @@ pa lisi; e po-co, pa gene divorci.
 Hogben pa gene game itera tem 1957 a boni ami ge-nima Jane. Mu pa viagia ad Afrika.
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
 Po fini ergo in Birmingham Universita; Hogben pa gene invita de es Vice-Ministra de
@@ -183,7 +190,7 @@ ISBN 0 85036-470-1 Preci: £14.95
 
 Ron Clark
 
-                                   [pikto de Ron Clark]
+[pikto de Ron Clark]
 
 Ronald Charles Clark pa gene nati in St. Pancras, London, 28 April 1914. An matri Lilian
 pa es fo kali gina; e iso Ron fe pa habe leuko kapila, plu ciano oku, e pa es u piktu de
@@ -237,7 +244,7 @@ revista – feno – de u lingua-bibli e u nova-papira-pe pa nima id “Hogben's
 (No-semane Disipa ex Hogben). Ron fo amo plu grafo de Profesora
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
 Lancelot Hogben (inklude plu bibli “Science for the Citizen”, e “Mathematics for the
@@ -327,7 +334,7 @@ pote proto publika plu ma boni Glosa bibli in oligo lingua; po-co na pa proto ma
 difusi u lingua.
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
 Ex u-la tem Ron e mi pa unio ko poli ami de poli landa; e na pa fru poli hedo e amusa
@@ -400,7 +407,7 @@ per bali tu plu idea e plu nova de plu aktivi. Mega gratia!
 
       Ex Wendy
 
-N. B.
+N\. B.
 Panto aktivi e plu bibli-vendo (inklude PGN) nu es per na karita: Glosa Education
 Organisation,
 P. O. Box 18, Richmond, Surrey, TW9 2GE, U.K.
@@ -423,7 +430,7 @@ ma-lati ge-ski.
                                                                                Wendy Ashby
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
                                    Glosa in Inter-reti
@@ -458,7 +465,7 @@ Glosa fo tako.
 Un hetero Glosa-ami Sr. Syd Pidd nu-pa proto plu Inter-reti pagina. An eko-lo es:
 www.members.AOL.com/sydpidd/glosa.htm
 
-Mi habe Glosa-pagina ko nima [1]www.glosa.org. Id explika; qo-mode u Glosa-grama-lista
+Mi habe Glosa-pagina ko nima http://www.glosa.org. Id explika; qo-mode u Glosa-grama-lista
 funktio e qo-mode tu pote gene membra de id. Tu pote detekti la plu verba-lista, plu textu
 de Glosa-gramatika ex Robin Gaskell e oligo pusi textu. In textu-kolektio tu pote vide plu
 piktu de plu Glosa grafo-pe. Neo-ra in u-ci pagina es plu brevi audi exempla.
@@ -468,7 +475,7 @@ tu pote audi Gary Miller e an bi juve fe-fili kanta, – sura in Glosa!
 
 Mi ski; plu hetero auxi lingua habe ma kali Inter-reti pagina; posi ko ma kroma. Na fu
 dura ergo te sti ma-boni qalita; e sti ma mega un elekti de info la. Anti-co, place visita
-[2]www.glosa.org!
+http://www.glosa.org!
 
       Marcel Springer
       Hamburg, Deutschland.
@@ -477,13 +484,14 @@ dura ergo te sti ma-boni qalita; e sti ma mega un elekti de info la. Anti-co, pl
                                 Glosa Kanta in Inter-reti
 
 Karo plu Glosa-ami; na famili, Gary, Barbara Jo, Johannah (9) e Suzannah (7) nu kanta in
-Marcel Springer Inter-reti-pagina. Place vide na piktu la; e audi na: ([3]www.glosa.org/en
+Marcel Springer Inter-reti-pagina. Place vide na piktu la; e audi na: (http://www.glosa.org/en
 /audi.htm).
 
 Ci es plu lexi de mo de na kanta epi u-la pagina.
 
                                      Rubi Fluvi Vali
-
+[verse]
+____
 1. Ab na vali – mu dice – tu fu ki.
    Na fu este u minus de tu,
    Ka – mu dice – ne es heli-foto
@@ -503,7 +511,7 @@ rekanta: Si tu amo mi, kron sedi ko mi.
    Sub la buno, la flori es su.
    Po-kron tu fu es ab fluvi vali,
    Ka mi ne pote es minus tu.
-
+____
 
 
 Na plus grafo “Justi” u gratis publika-ma in Esperanto e Glosa; ali-pe; qi volu u kopi
@@ -532,10 +540,10 @@ lingua-skience-pe.
                                                                            Marcel Springer
 
 
-                                      - pagina 7: -
+[pagina 7:]
 
 
-                                [pikto: urba kon kastela]
+[pikto: urba kon kastela]
 
                                   Un Urba Kon U Kastela
 
@@ -644,17 +652,18 @@ www.members.AOL.com/sydpidd/eeee.htm
 
 
 
-                                      - pagina 8: -
+[pagina 8:]
 
 
-Enigma Pagina: place vide [4]www.glosa.org/pic/pgn084_enigm.png
-
-
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn084_enigm.png
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                              [5]www.glosa.org, 2005-09-20 ... 2009-04-25.
+// http://www.glosa.org, 2005-09-20 ... 2009-04-25.
 
+== Numera 85
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota [Glosa logo]                 ┃
 ┃                                                             ┃
@@ -667,6 +676,7 @@ Enigma Pagina: place vide [4]www.glosa.org/pic/pgn084_enigm.png
 
 Numera 85                   Septembra-Novembra 2001                         ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
                                      Glosa in Uganda
 
@@ -696,12 +706,12 @@ tetra-bi stude-pe in mi klasi.
 Tu pote vide bi-seti stude-pe in fotografi infra. Singu di-mo, na unio te stude Glosa; e
 te dice de prepara pro id kontinu futuri.
 
-                             [pikto: plu stude-pe in Uganda]
+[pikto: plu stude-pe in Uganda]
 
 Na centra es in Rukungiri Regio, in ocide mero Uganda. Id es solo tetra kilometri ex Mega
 Densi Natio Parka; u-ci es internatio famo kausa; id es un eko-lo de plu Monti Gorila.
 
-                                     [mapa de Uganda]
+[mapa de Uganda]
 
 U strategi poste na klasi es: U Nyundo Monti Gorila konserva Projekti. Id promise te gene
 stimula e krati e plu konserva-pe, e plu konserva-organiza. Na ergo ko Burwindi Natio
@@ -729,7 +739,7 @@ futuri.
 
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
                                           Uganda
@@ -790,8 +800,8 @@ libra inter environmenta-turismo e ekonomi-developo te sekuri u boni e sani futu
 demo e landa. Mu veri merito poli gratula e auxi ex panto-na.
 
 Vide ma info de Uganda per:
-   [1]www.visituganda.com
-   [2]www.unicef.org.
+   http://www.visituganda.com
+   http://www.unicef.org.
 
 
                                      Plu Grama e Nova
@@ -800,6 +810,7 @@ Mi dice poli gratia a panto Glosa-ami qi pa grafo plu gluko grama po gene mu kop
 84. Poli-tu feno amo lekto id; e pa es fo hedo de ski; na publikatio fu kontinu.
 
 Plu buta de PGN es de:
+
 1. Monstra id es posi de grafo de ali tema per Glosa. Seqe-co, na pa inklude plu artikla
 de poli tema inklude skience, teknologi e komercia; e plus-co, poesi e plu stori. Oligo mu
 ur-ge-grafo in Glosa e plu hetero mu ge-translati ex plu famo grafo-pe de plu hetero
@@ -823,7 +834,7 @@ mi pote bali mu PGN 84.
 
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
                                   Universita de Eva Tri
@@ -908,7 +919,8 @@ And why when I wind up my watch, I start it, but when I wind up this essay, I en
 Ci es hetero amusa poesi de plu no-facili de English.
 
                                      A Bit of English
-
+[verse,Anon.]
+____
 We'll begin with a box, and the poural is boxes;
 But the plural of ox should be oxen, not oxes.
 Then one fowl is goose, but two are called geese;
@@ -933,13 +945,14 @@ The masculine pronouns are he, his and him,
 But imagine the feminine she, shis and shim!
 So our English, I think you will agree,
 Is the stupides language you ever did see.
+____
 
-         Anon.
+//         Anon.
 
 
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
                                       Grama ex Ruski
@@ -1042,7 +1055,7 @@ simpli mode; pro plu Euro-pe. Inter-tem, na habe PGN pro kambio de plu idea.
 
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
                                      Grama ex London
@@ -1121,11 +1134,11 @@ Sr. Leonard A. Sekibaha in Pangani, Tanzania nu habe e-posta: Tourinfo@habari.co
 Tanzania ne es fo boni; e mali-fortuna oligo grama e PGN ne ariva. Na doxo; u-ci fax e
 e-posta eko-lo fu es ma boni.
 
-Es nu mero Glosa-Magyr traduce in Inter-reti; vide id per: [3] www.glosa.org/brevi/
+Es nu mero Glosa-Magyr traduce in Inter-reti; vide id per: http://www.glosa.org/brevi/
 magyar.htm.
 
 Plus-co, tu pote vide mero “18 Steps” bibli; u-ci nu-pa gene proto ex Marcel Springer in
-Hamburg, Deutschlanda. [4] www.glosa.org/en/g18s.htm.
+Hamburg, Deutschlanda. http://www.glosa.org/en/g18s.htm.
 
 Inter-reti gene ma gravi pro plu komerci-pe in Englanda. Seqe-co, id es klu ma gravi; plu
 internatio komerci-pe pote komunika ma efekti per mu centra ge-duce Inter-reti eko-lo. Nu
@@ -1154,7 +1167,7 @@ mo manuface-pe de vesti-lava-ma ne pa memo de versi plu seqe de “pre” e “p
 fotografi in mu Arabi publika-ma. Seqe-co, plu Arabi-pe qi lekto ex dextro a
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
 laevo; pa vide plu ge-lava-vesti ki ad in lava-me – e po-co, mu pa veni ex no-ge-lava!
@@ -1267,7 +1280,7 @@ kardia-pato.
 
 
 
-                                      - pagina 7: -
+[pagina 7:]
 
 
 Ci es mi musika de u poesi “Kosmo Glosa”.
@@ -1282,7 +1295,7 @@ Mi pa volu dona simpli melodi ad u-ci poesi, kausa:
 Mi fe-fili Johannah sio amo habe u Glosa gram-ami. Fe habe 10 anua. Tu pote vide fe in
 fotografi; fe kanto ko mi, mi gina Barbara e fe ma-juve sorori Suzannah.
 
-                                 [pikto de Miller famili]
+[pikto de Miller famili]
 
 Place grafo a fe: Johannah Miller
 409-7 Ave NW,
@@ -1292,20 +1305,23 @@ E-posta: [E-grama adresa de Gary homo PNG-imagi]
 A tu veri
    Gary Miller.
 
-                                  [grafo de Glosa-Marca]
+[grafo de Glosa-Marca]
 
 
-                                      - pagina 8: -
+[pagina 8:]
 
 
-Enigma Pagina: place vide [5]www.glosa.org/pic/pgn085_enigm.png
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn085_enigm.png
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                              [6]www.glosa.org, 2009-04-25 ... 2009-05-31.
+// http://www.glosa.org, 2009-04-25 ... 2009-05-31.
 
+== Numera 86
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
 ┃                                                             ┃
@@ -1318,6 +1334,7 @@ Enigma Pagina: place vide [5]www.glosa.org/pic/pgn085_enigm.png
 
 Numera 86                       Februari 2002                               ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
 
 
@@ -1401,7 +1418,7 @@ pa gene no-depende ex Danmark tem 1944. U Danmark-lingua es lingua-bi de poli Is
 Un Islanda-lingua pa muta fo pusi; seqe-co, plu persona dura pote lekto plu paleo
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
 stori (Saga); e plu-ci stori pa gene grafo ma de 700 anua retro. Plura-pe nima u lingua
@@ -1417,7 +1434,7 @@ Já            Ja           Yes           Ja
 Nei           No           No            Nein
 Dag           Di           Day           Tag
 Í dag         Nu-di        Today         Heute
-Á morgun      Fu-di        Tomorrow      Morgen   
+Á morgun      Fu-di        Tomorrow      Morgen
 Takk          Gratia       Thank you     Danke
 Einn          Mo           One           Ein
 Tveir         Bi           Two           Zwei
@@ -1425,8 +1442,8 @@ Prír          Tri          Three         Drei
 Gjá           Fisu         Rift, fissure Spalte
 Eyja          Nesia        Island        Insel
 Reykja        Fumi         Smoke         Rauch
-Flúgvöllur    Aeroporta    Airport       Flughafen   
-Simi          Telefono     Telephone     Fernsprecher   
+Flúgvöllur    Aeroporta    Airport       Flughafen
+Simi          Telefono     Telephone     Fernsprecher
 
 
 
@@ -1505,7 +1522,7 @@ geologi, agrikulti e religio aktivi. Id alti es 155 metri supra mari libela.
                                       (Glastonbury)
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
 Pre poli anua, posi tem Centi Anua Nona; pe pa tekto u domi-fa qi pa es u monako-do epi
@@ -1540,11 +1557,11 @@ visita la pa es u maxi hedo setimana de mi holo bio. Gastonbury es u fo spiritu 
 loka; e pro mi; id pa es kaso de visita u gru loka a gru tem de mi bio. Si tu este
 interese; tu pote visita tri-ci Inter-reti eko-lo:
 
-info: [1]www.chalicewell.org.uk
+info: http://www.chalicewell.org.uk
 
-[2]www.glastonburyabbey.com
+http://www.glastonburyabbey.com
 
-[3]www.glastonbury.co.uk/tic
+http://www.glastonbury.co.uk/tic
 
 
 Glosa e Inter-reti
@@ -1552,7 +1569,7 @@ Glosa e Inter-reti
 U numera de plu Glosa-ami komunika per E-posta e Inter-reti dura kresce. Nu es plu hetero
 Inter-reti eko-lo; per-co pe pote lekto poli speci Glosa textu e Glosa lexi-lista.
 
-U boni proto-lo es Inter-reti eko-lo: [4]www.glosa.org
+U boni proto-lo es Inter-reti eko-lo: http://www.glosa.org
 
 Mi es fo hedo de vide u-ci avanti; id es fo boni; anti-co, ex u-ci avanti; feno es oligo
 speci de Glosa-grafo. Exempla,mi nu du gene plu grama e artikla qi uti oligo lexi qi ne
@@ -1574,7 +1591,7 @@ Na grafo: Mi puta;….
 
 We think that Glosa is an easy language.
 
-= Na doxo; Glosa es u facili lingua.
+\= Na doxo; Glosa es u facili lingua.
 
 In English tako-dice; pe freqe ne dice “that”. Exempla; na freqe dice:
 
@@ -1603,15 +1620,15 @@ Gratia a Ruski-ami Sr. Alexander Kirpichev na nu habe proto mero 18 Gradu in Rus
 
 Eko-lo de English versio:
 
-[5]http://www.glosa.org/en/g18s.htm
+http://http://www.glosa.org/en/g18s.htm
 
 Eko-lo de Deustch versio:
 
-[6]http://www.glosa.org/dt/g18s.htm
+http://http://www.glosa.org/dt/g18s.htm
 
 Eko-lo Ruski versio es:
 
-[7]http://www.glosa.org/bervi/ru18s.htm
+http://http://www.glosa.org/bervi/ru18s.htm
 
 Mu es solo u ge-brevi versio de ur-18 Gradu bibli; anti-co tri-ci Inter-reti bibli fu auxi
 plu neo doci-pe e stude-pe de Glosa.
@@ -1642,26 +1659,26 @@ Klude / apri u fenestra    das Fenster schließen / öffnen
 
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
 ... In ge-printa PGN, sed minus in u-ci HTML-versio: "Tri Andro in Navi" ex Jerome K.
 Jerome ("Three Men in a Boat") "Drei Mann in einem Boot", Glosa-Deutsch paraleli textu,
-vide [8]www.glosa.org/dt/g18s.htm. ...
+vide http://www.glosa.org/dt/g18s.htm. ...
 
 
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
-... In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski "18 Gradu", vide [9]
+... In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski "18 Gradu", vide http://
 www.glosa.org/brevi/ru18s.htm. ...
 
 
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
                                      Teknologi-Glosa
@@ -1720,7 +1737,7 @@ Light detector           Foto detekti-me
 Curser                   Indika-ra
 Click, press             Piezo
                          Klik (onomatopoeia)
-                          
+
 English                  Glosa
 Drag                     Trakto
 Monitor                  Monito-me
@@ -1765,7 +1782,7 @@ Text frame               textu-qadra
 
 
 
-                                      - pagina 7: -
+[pagina 7:]
 
 
                                      Plu Mega Litera
@@ -1889,18 +1906,21 @@ seqe-co, auxi plu ago-pe reakti ma tosto.
 
 
 
-                                      - pagina 8: -
+[pagina 8:]
 
 
 
-Enigma Pagina: place vide [10]www.glosa.org/pic/pgn086_enigm.png
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn086_enigm.png
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                             [11]www.glosa.org, 2005-06-26 ... 2008-02-26.
+// http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
+== Numera 87
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
 ┃                                                             ┃
@@ -1913,6 +1933,7 @@ Enigma Pagina: place vide [10]www.glosa.org/pic/pgn086_enigm.png
 
 Numera 87                 Decembra 2002 - Februari 2003                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
 
 
@@ -1995,7 +2016,7 @@ tena mu logi de id minus un influ de plu lexi de English.
 
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
 Oligo Kweyol lexi
@@ -2028,12 +2049,12 @@ Exempla: “té” = pa; “ka” = nu; e “kay” = fu.
 Plu lekto-pe de “Plu Glosa Nota” freqe bali plu qestio de Glosa; ci es oligo questio; mi
 nu-pa gene.
 
-Q. Fe-bovi = a female ox, cow.
+Q\. Fe-bovi = a female ox, cow.
 
 Fe bovi = her cow. Qe es posi konfusi ci?
 
 
-R. Id panto-kron auxi de ski u kontextu. Si tu inklude un exempla frase; mi ma facili pote
+R\. Id panto-kron auxi de ski u kontextu. Si tu inklude un exempla frase; mi ma facili pote
 dona u-la translati qi evita konfusi. Freqe u-ci es per adi un hetero lexi ad u-la frase.
 
 U fe-bovi pa sedi epi gra = The cow sat on the grass.
@@ -2050,17 +2071,17 @@ tako-grafo pe freqe uti fe bovi.
 Bovi-fe = cow girl. Bovi-an = cow boy
 
 
-Q. Qe u lexi ‘plu’ es nece pre numera-lexi ko nomina-lexi? Qe na dice: Mi vide plu poli
+Q\. Qe u lexi ‘plu’ es nece pre numera-lexi ko nomina-lexi? Qe na dice: Mi vide plu poli
 zoa in parka.= I see many animals in the park. Alo Mi vide poli zoa in parka?
 
 
-R. “Plu” indika es ma de mo. U numera-lexi indika un exakti alo proxi qantita; e ko-co, u
+R\. “Plu” indika es ma de mo. U numera-lexi indika un exakti alo proxi qantita; e ko-co, u
 lexi ‘plu’ es no nece. Seqe-co, de bi-ci exempla u frase bi es korekti. Na ne sio uti
 “plu” in u-ci frase si na uti plu seqe exempla: poli zoa, panto zoa, oligo zoa, plura zoa,
 zero zoa, qanto zoa? mo zoa, bi zoa, tri zoa, etc.
 
 
-Q. Qe pe nu-pa muta struktura de u Glosa frase?
+Q\. Qe pe nu-pa muta struktura de u Glosa frase?
 
 Mi vide oligo Inter-reti Glosa-pe nu du uti plu neo struktura qi ne es ur-Glosa a mi. Mo
 exempla mi nu pa vide es:
@@ -2068,7 +2089,7 @@ exempla mi nu pa vide es:
 An ki domi. An ki ad an domi. E An ki a domi. Te translati Englanda-lingua: He goes home.
 
 
-R. U frase: An ki domi. ne dona sati info.
+R\. U frase: An ki domi. ne dona sati info.
 
 Exempla mo persona posi translati id; His moving house, alo klu His caravan. Anti-co,
 rota-do posi es ma boni pro Glosa 1000; e u lexi karavana es in Mega Glosa.
@@ -2083,11 +2104,11 @@ konfusi; id es panto-kron posi de adi mo alo plu lexi. Exempla: An es in an auto
 es in u domi de an. An ki ad an auto domi.
 
 
-Q. U pusi numera de Glosa-pe feno aktivi re-face Glosa; vice uti id. Qe id sio es ma
+Q\. U pusi numera de Glosa-pe feno aktivi re-face Glosa; vice uti id. Qe id sio es ma
 profito; si vice-co, mu auxi per uti e difusi id?
 
 
-R. Ja mi akorda ko tu. Anti-co, poli speci persona gene interese de Glosa pro poli speci
+R\. Ja mi akorda ko tu. Anti-co, poli speci persona gene interese de Glosa pro poli speci
 kausa. Posi tu pa detekti u grega de plu-la persona qi fo amo dice de plu internatio
 lingua; e qi plus-co, amo face plu neo lingua. Posi mu akti u-ci per trakto mero mu
 lexi-lista e struktura ex Glosa. Probabli plu-ci persona ne es fo zelo pro Glosa. Ne
@@ -2103,10 +2124,10 @@ funktio fo boni. Simi tu, mi ma amo spende mi tem uti e difusi id; e du kontinu 
 ergo de Lancelot Hogben e Ron Clark.
 
 
-Q. Qe u Glosa lexi ‘bate’ signifi un English lexi strike, hit e plus-co, to go on strike?
+Q\. Qe u Glosa lexi ‘bate’ signifi un English lexi strike, hit e plus-co, to go on strike?
 
 
-R. Bate = hit, beat, strike.
+R\. Bate = hit, beat, strike.
 
 Bate u bola. Hit the ball.
 
@@ -2123,7 +2144,7 @@ Plu ergo-pe pa sto ergo kausa de u disputa.
 The workers went on strike because of a dispute.
 
 
-Q. Mega gratia de “Glosa 6000” e PGN; qi mi nu-pa merka. Mi pa gene sti mira; de logi
+Q\. Mega gratia de “Glosa 6000” e PGN; qi mi nu-pa merka. Mi pa gene sti mira; de logi
 Glosa ta facili ex solo uti u-ci lexi-lista e plu mekani de Glosa.
 
 Mi vide; tu uti u lexi Decembra vice meno mo-bi. Qe tu habe un alo-lista pro plu meno?
@@ -2139,17 +2160,17 @@ Cardiff, Cymru.
 
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
-R. In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
+R\. In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
 Glosa lista na habe plu alo nima pro plu meno e plu di, mu es ci.
 
 
                                          Plu Meno
 
-Meno-mo       Januari      
-Meno-bi       Februari      
+Meno-mo       Januari
+Meno-bi       Februari
 Meno-tri      Mars
 Meno-tetra    Aprili
 Meno-penta    Mai
@@ -2193,7 +2214,7 @@ amusa mode de explika plu interese brevi stori de plu-ci fito-nima. Ja, in Glosa
 mu fonetika. Vide un artikla Lingua de plu Fito in u-ci PGN.
 
 
-Q. Karo plu ami,
+Q\. Karo plu ami,
 
 Mi doxo; u munda pote existe minus plu internatio auxi lingua; id nu habe u fo mega ge-uti
 lingua – u lingua de Cina. Ka-co; mi doxo; na ne volu ali internatio auxi lingua. Mi ski;
@@ -2210,7 +2231,7 @@ Sr. Kari Mallat,
 
 Lempaala, Suomi.
 
-R. In PGN, ex kron a kron na pa grafo oligo artikla de plu facili-ra de gene sko de
+R\. In PGN, ex kron a kron na pa grafo oligo artikla de plu facili-ra de gene sko de
 Cina-lingua. E de plu-la simi-ra de id struktura e de u struktura de Glosa. Exempla: ambi
 bi-ci lingua habe pusi centra lexi-lista e zero flexio. E mu evita plu longi e komplexi
 frase. Anti-co, na zero-kron doxo; Cina-lingua es sati gru de es un Internatio Auxi
@@ -2247,7 +2268,7 @@ disipa. Tu auto pote elekti si tu volu juga ko plu-la persona qi dice de plu lin
 jugo ko plu-la persona uti Glosa e auxi te difusi id ma lati.
 
 
-Q. Mi doxo; na nece habe u ma mega qantita de literatura ge-grafo in Glosa. Mi auto; dura
+Q\. Mi doxo; na nece habe u ma mega qantita de literatura ge-grafo in Glosa. Mi auto; dura
 fo amo de translati plu stori ad in Glosa pro plu juve-pe. Mi sio amo audi ex ali
 Glosa-ami qi volu akti u-ci. Po-co, mi pote kolekti plu-ci stori ad alelo; te ofere mu per
 Inter-reti.
@@ -2260,7 +2281,7 @@ Cabramatta, NSW. Australia.
 
 
 
-R. Karo Robin mega gratia de tu dura auxi difusi Glosa. Ja, akorda! Plu juve-pe stori es
+R\. Karo Robin mega gratia de tu dura auxi difusi Glosa. Ja, akorda! Plu juve-pe stori es
 fo ge-amo per oligo Glosa-pe; inklude plu juve-pe e plu ma-paleo-pe. Sura, u nece pro ma
 mega qantita literature du kreske; e plu Glosa-ami petitio id de poli tema inklude plu
 brevi stori.
@@ -2270,7 +2291,7 @@ Glosa famili in USA freqe translati plu-ra ad in Glosa. An nu-pa bali brevi stor
 in epi pagina 7 de u-ci PGN.
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
                                     Lingua de plu Fito
@@ -2403,7 +2424,7 @@ terapi profito.
 
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
 Hidrangea Greko (hydor- Eng. water e -aggos a jar. Refere a plu frukti; mu habe forma de
@@ -2532,7 +2553,7 @@ dendro e plu hetero fito.
 
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
                                     Kura pro plu Fito
@@ -2607,7 +2628,7 @@ Nu plus mo kron! Fo voci!
 
 Lase; na nu lose kord!
 Lase; na nu strepto kord!
-Aj-da-da, aj-da! Aj-da-da, aj-da!   
+Aj-da-da, aj-da! Aj-da-da, aj-da!
 Lase; na nu lose kord!
 
 
@@ -2642,7 +2663,7 @@ detekti epi panto-la navi. Glosa-pe; fo voci!
 Gary Miller, Mandan, USA.
 
 
-                                      - pagina 7: -
+[pagina 7:]
 
 
 
@@ -2783,19 +2804,22 @@ Pa es tanto ple de somni u-la momenta;
 Kron mi pa abandon u veri via.
 
 
-                                      - pagina 8: -
+[pagina 8:]
 
 
 
 
-Enigma Pagina: place vide [1]www.glosa.org/pic/pgn087_enigm.png
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn087_enigm.png
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                              [2]www.glosa.org, 2005-06-26 ... 2008-02-26.
+// http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
+== Numera 88
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
 ┃                                                             ┃
@@ -2808,6 +2832,7 @@ Enigma Pagina: place vide [1]www.glosa.org/pic/pgn087_enigm.png
 
 Numera 88                 Decembra 2002 - Februari 2003                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
 
 
@@ -2884,7 +2909,7 @@ ex Sr. Rainer Asenkerschbaumer.
 (Wendy Ashby e plu ami dice pro filma)
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
                                 Liliana Cavani – grafo-pe
@@ -2985,7 +3010,7 @@ fo ge-amo ko plu-la persona; qi amusa se de grafo poesi, literature e plu komple
 lexi-enigma. Pe es libe de uti idio grafo-mode;
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
 e tem ma civi ex poli landa uti Glosa; id fu dura de develop e kresce id idio mode. Si pe
@@ -3098,7 +3123,7 @@ Sr. Ron Clark ko an Glosa “Western Daily Press”
 
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
                                       Un Hedo Andro
@@ -3223,7 +3248,7 @@ Mi pa dice ad an de mi problema; e an pa petitio mi de veni in an domi. An pa ek
 domi de Espania; kon u ge-pave-lo. An konsili-ka qi pa duce ex
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
 id; pa es ge-spora per poli bibli, papira plu medika-me e poli hetero-ra. U-ci vista posi
@@ -3331,86 +3356,55 @@ de presidenti Abraham Lincoln.)
 
 (veli-navi)
 
+[verse,Walt Whitman]
+____
 O kapitana! Mi kapitana!
-
 Na fobo viagia nu-pa es ge-fini.
-
 U navi pa dura dia panto turba.
-
 U premi; na pa cerka, pa gene gania.
-
 Un asilu-lo nu es proxi.
-
 Mi audi plu kampani.
-
 Panto homi voci lauda.
-
 Tem mu oku du seqe u rekti forma
-
 de minus-este e minus-fobo navi.
-
 Anti-co – o kardia! Kardia! Kardia!
-
 O plu kade guta de hema;
-
 Topo epi plano mi kapitana du kumbe –
-
 Ge-kade e frigi e morta.
 
 
 O kapitana! Mi kapitana!
-
 Sti surge e audi plu kampani,
-
 Sti surge! Pro tu un insigni pa gene leva.
-
 Pro tu u trompeta gene soni.
-
 Pro tu es plu flori-fa e plu orna-zo ko kali banda.
-
 Pro tu plu litora gene u poli-pe.
-
 Pro tu mu voci—un osci kumu ko zelo facia;
-
 Qi tropi a na.
-
 Ci, kapitana! Karo patri!
-
 Es u braki infra tu kefa!
-
 Qe id es u sonia; epi plano
-
 Tu pa kade — frigi e morta?
 
-
 Mi kapitana ne reakti.
-
 An labia es palidi e no-soni.
-
 Mi patri ne este mi braki.
-
 An habe ni dina ni volu.
-
 U navi pa gene no-moti kon asilu e kon holo.
-
 Id viagia es ge-fini e sucede.
-
 Ab fobo viagia u vikto navi nu veni ko ge-gania uta.
-
 Sti lauda, o litora vi! E sti soni, o kampani vi!
-
 Anti-co, mi ko tristi pedi
-
 Du gresi epi plano; topo mi kapitana du kumbe –
-
 Ge-kade e frigi e morta.
 
 Translati ex Sr.Gary Miller, USA.
+____
 
 
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
 Plu Kondimenta
@@ -3525,7 +3519,7 @@ mero zingiber radi ad in tea-va. Po circa penta minuta fusi ad in tasa; e mixa k
 mero citru-suku e meli.
 
 
-                                      - pagina 7: -
+[pagina 7:]
 
 
                                      Sporta ko Glosa
@@ -3566,7 +3560,7 @@ U               6       1
 V               1       6
 X               1       8
 Z               1       8
-Blank           2  
+Blank           2
 
 
                                         Lexi-Skala
@@ -3650,22 +3644,25 @@ pa vide. E id gene duce per plu maxi mega komercia de u munda. Na nece habe un i
 konveni te metri u valu de plu neo teknologi; un internatio lega struktura te analisi mu e
 te tena na ante
 
-.”Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation. [1]
-www.rightlivelihood.org
+.”Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation.
+http://www.rightlivelihood.org
 
 
-                                      - pagina 8: -
+[pagina 8:]
 
 
 
-Enigma Pagina: place vide [2]www.glosa.org/pic/pgn088_enigm.png
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn088_enigm.png
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                              [3]www.glosa.org, 2005-06-26 ... 2008-02-26.
+// http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
+== Numera 89
+
+....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
 ┃                                                             ┃
@@ -3678,6 +3675,7 @@ Enigma Pagina: place vide [2]www.glosa.org/pic/pgn088_enigm.png
 
 Numera 89                 Decembra 2004 - Februari 2005                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+....
 
 
 
@@ -3755,7 +3753,7 @@ duce oficiali-pe akti te solve u-ci tako kresce problema?
 
 
 
-                                      - pagina 2: -
+[pagina 2:]
 
 
                                    Plu qestio e reakti
@@ -3865,7 +3863,7 @@ Wendy
 
 
 
-                                      - pagina 3: -
+[pagina 3:]
 
 
                                     Plu ge-face lingua
@@ -3987,14 +3985,14 @@ de id histori e de id nu stato. Id es u bibli; qi fu interese poli Glosa-pe si m
 pa vide id.
 
 
-                                      - pagina 4: -
+[pagina 4:]
 
 
 ... In ge-printa PGN, sed minus in u-ci HTML-versio: "Glosa-Mekani in Portuguese", vide
-MS-Word-dokumenta [1]www.glosa.org/pgn/portmek.doc. ...
+MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc. ...
 
 
-                                      - pagina 5: -
+[pagina 5:]
 
 
 (mari-zoa Hipokampus)
@@ -4017,20 +4015,20 @@ de algas, sopa de tartaruja, caviar e          e alga salata; kelonia supa; kavi
 muitas outras receitas. E um grande            hetero formula. An es u fo boni kuko-pe.
 cozinheiro.
 
-                                                  
+
 Quando a comida esta pronta o polvo poe a      Kron u sito es ge-kuko; un oktopus prepara
 mesa. A toalha e uma alga branca e os          u tabla. U tabla-te es ge-face ex leuko
 pratos sao conchas. Depois, a noite, o         alga; e plu disko es plu mari konka. Ma
 polvo faz a ninha cama com algas muito         tardo, tem nokto un oktopus face mi kli ko
 verdes e muito macias.                         fo moli e fo kloro alga.
 
-                                                  
+
 Mas o costureiro dos meus vestidos e o         Sed mi vesti face-pe es u kancera. Plus-co,
 caranguejo. E e tambem o meu ourives: ele      an es mi gema-pe; an face plu cervika-zo ex
 e que faz os meus colares de buzios, de        plu konka-ostraka, ex plu korali e ex plu
 corais e de perolas.                           magari.
 
-                                                  
+
 O peixe nao faz nada porque nao tem maos,      U piski ne akti ali-ra; kausa an ne habe
 nem bracos com ventosas como o polvo, nem      plu manu, ni plu braki ko plu sugo-ra simi
 bracos com tenazes como o caranguejo. So       un octopus; e ni plu braki ko plu pinceta
@@ -4042,7 +4040,7 @@ vazia brincamos nas rochas; quando esta        sporta. Tem mari es kata; na spor
 mare alta damos passeios no fundo do mar.      petro; e tem mari es ana; na vaga epi funda
                                                de u mari.
 
-                                                  
+
 Tu nunca foste ao fundo do mar e nao sabes     Tu zero kron pa ki a funda de u mari;
 como la tudo e bonito. Ha florestas de         seqe-co, tu ne ski; panto-ra la es tanto
 algas jardins de anemones, prados de           kali. Es plu foresta de plu alga; plu horti
@@ -4056,26 +4054,26 @@ fina, branca e lisa.                           kaverna – melano-ciano, purpura
                                                es plu plati-lo minus fini ko moli e liso
                                                leuko arena.
 
-                                                  
+
 Tu es da terra e se fosses ao fundo do mar     Tu veni ex tera; e si tu ki a funda de u
 morrias afogado. Mas eu sou uma Menina do      mari tu sio lose bio. Sed mi es u Pusi
 Mar. Posso respirar dentro da agua como os     Ju-fe de u Mari. Mi pote spira infra un aqa
 peixes e posso respir for a da agua como       iso simi plu piski; e spira ex un aqa simi
 os homens.                                     homi.
 
-                                                  
+
 E agora que ja contei a minha historia         “E nu mi pa dice a tu mi stori; place fero
 leva-me outra vez para o pe dos meus           mi versi a plu ami de mi; mu posi habe mega
 amigos que devem estar aflitissmos.”           anxio de mi.”
 
-                                                  
+
 O rapaz pegou na Menina do mar com muito       U ju-an pa rapi u Pusi Ju-fe de u Mari, fo
 cuidado na palma da mao e levou-a outra        kura ad in palma de an manu; e pa fero fe
 vez para o sitio de onde a tinha trazido.      versi ad u loka; an pa fero fe ex. Un
 O polvo, o caranguejo e o peixe – la           oktopus, u kancera e u piski pa es la
 estavam os tres a chorar abracados.            tri-mu lakrima in plu braki de alelo.
 
-                                                  
+
 “Estou aqui” gritou a manina do mar.           “Mi es ci” pa voci u pusi ju-fe de u mari.
 
 U-ci es ge-brevi ex Portuguese stori “A Menina do Mar” ge-grafo ex Sofia de Melo Breyner.
@@ -4085,7 +4083,7 @@ U-ci es ge-brevi ex Portuguese stori “A Menina do Mar” ge-grafo ex Sofia de 
 
 (zoa Kinosterno) (piski)
 
-Portuguese    English          Francais         Glosa   
+Portuguese    English          Francais         Glosa
 nascer        to be born       naitre           ge-nati
 ter           have             avoir            habe
 gaivota       seagull          mouette          Larus
@@ -4094,7 +4092,7 @@ por           to put, place    metre            loka
 cozinheira    cook             la cuisiniere    kuko-pe
 comida        food             nourriture       sito
 sopa          soup             soupe            supa
-                                                 
+
 Portuguese    English          Francais         Glosa
 receita       recipe           recette          formula
 nadar         swim             nager            nekto
@@ -4106,7 +4104,7 @@ chorar        cry, weep        pleurer          lakrima
 gritar        cry, shout       crier            voci
 
 
-                                      - pagina 6: -
+[pagina 6:]
 
 
                                U ski de u tetra-anua ju-pe
@@ -4239,7 +4237,7 @@ krati-me sio funktio simi u paleo vagona.
                            De plu lexi ge-uti epi u-ci pagina.
 
 
-Glosa          English         Glosa       English   
+Glosa          English         Glosa       English
 doci-fe        teacher         anti        versus
 bali           send            puta-me     computer
 profesio-pe    professional    ago         to drive
@@ -4249,7 +4247,7 @@ frigi-me       refrigerator    uno-ra      something
 elefa          elephant        fo luxu     deluxe
 an-regi        king            carta-fa    set of maps
 ero            wrong           no-gravi    doesn't matter
-falsi          disprove                     
+falsi          disprove
 
 
 
@@ -4277,7 +4275,7 @@ es te promoti solo mo certa lingua. An fo logi u kresce problema; qi gene sti pe
 existe de poli kilo lingua in munda; e an volu stimula u ma mega numera civi in na munda
 de dice de u problema; e seqe-co, akti mu mero te solve id. Pro ma info e te registra tu
 elekti visita:
-[2]www.freewebs.com/international-languages/
+http://www.freewebs.com/international-languages/
 
 
                              Neo data basi de Eire literature
@@ -4303,7 +4301,7 @@ U data basi nu inklude tetra brevi stori ex Eire grafo-an Oscar Wilde; translati
 Glosa. Mu es: U Sfinx Minus U Kripto, U Modela Miria-pe, Un Egoisti Giga e Un Hedo Prince.
 
 Pro ma info e te lekto tetra Glosa stori; visita;
-[3]www.dcu.ie/~ctts.
+http://www.dcu.ie/~ctts.
 
 
                                         Ave Maria
@@ -4357,37 +4355,37 @@ Amen.
 
 U Logika                                         La razón
 
- 
+
 (Ex plu ge-medita-ra de Tao-filosofi.            (De "meditaciones taoistas". Enviado al
 Ge-bali ad Glosalist 2004. Glosa translati       grupo "Glosalista" 2004; traducción de
 ex Mario Montijo.)                               Mario Montijo)
- 
+
 U paleo sofi-pe pa ambula ko tri de an           Un anciano sabio se paseaba con tres de
 stude-pe in un horti de an viki.                 sus discípulos en el jardín de su pueblo.
- 
+
 Du vide u vermi; qi pa vora u vegeta, mo ex      Viendo un limaco que devora una lechuga
 plu stude-pe pa cide id per an pedi.             el primer discípulo lo aplasta con el
                                                  pie.
- 
+
 U persona bi dice po-co; "sko-pe, qe ne es       El segundo dice entonces: -Maestro, ¿no
 un mali-akti de cide u-ci vive-ra?"              es pecado aplastar esta criatura?
- 
+
 U sko-pe reakti: "Tu habe logika, veri id        El maestro le responde: -Tienes razón,
 es." -                                           así es.
- 
+
 "Sed id pa vora na sito", dice u stude-pe        -Pero el comía nuestro alimento, ¿no he
 mo, "qe mi ne pa akti bene?"                     hecho bien?
- 
+
 U sko-pe reakti: "Tu habe logika." -             El maestro le responde: -Tienes razón.
- 
+
 U stude-pe tri dice: "ambi dice kontra-ra;       El tercero dice: -Ambos dicen cosas
 ambi ne pote habe logika!"                       contradictorias, no pueden los dos tener
                                                  la razón.
- 
-E u sko-pe reakti: "Tu habe logika."             Y el maestro le responde: -Tienes razón.
- 
 
-Te vide u-ci brevi stori kon Espanol translati visita: [4] www.glosa.org/brevi/estextu.htm
+E u sko-pe reakti: "Tu habe logika."             Y el maestro le responde: -Tienes razón.
+
+
+Te vide u-ci brevi stori kon Espanol translati visita: http://www.glosa.org/brevi/estextu.htm
 [Nota: un Español textu ne es in PGN, solo ci in inter-reti versio.]
 
 [pikto: larva ko akademi-kefa-ve]
@@ -4397,11 +4395,11 @@ Te vide u-ci brevi stori kon Espanol translati visita: [4] www.glosa.org/brevi/e
 
                            De plu lexi ge-uti epi u-ci pagina.
 
-Glosa          English            Glosa       English   
+Glosa          English            Glosa       English
 inter-reti     Internet           bali        send
 eko-lo         web site           sfinx       sphinx
 duce-pagina    home page          kripto      secret
-elekti         vote               miria-pe    millionaire   
+elekti         vote               miria-pe    millionaire
 civi           citizen            egoisti     selfish
 data basi      data base          giga        giant
 
@@ -4410,11 +4408,11 @@ data basi      data base          giga        giant
 
 
 
-Enigma Pagina: place vide [5]www.glosa.org/pic/pgn089_enigm.png
+Enigma Pagina: place vide http://www.glosa.org/pic/pgn089_enigm.png
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                                              [6]www.glosa.org, 2005-06-26 ... 2008-02-26.
+// http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 

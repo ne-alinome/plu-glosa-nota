@@ -7,7 +7,17 @@
 
 :dot: .
 
-// Last modified 201811230122
+// Last modified 201811230133
+
+// =============================================================
+//
+// This document is a project under development, by Marcos Cruz
+// (programandala.net), 2018, based on the contents available in
+// glosa.org, which are maintained  by Marcel Springer.
+//
+// This document is in Asciidoctor format (see asciidoctor.org)
+//
+// =============================================================
 
 == Numera 84
 
@@ -77,8 +87,6 @@ an un okasio de gresi in “Forêt de Trois Fontaines” alo peri plu viti-lo. M
 pa ergo pro “Plu Ami Ambulance Unita” in Dunkirk pato-do. Tem in Marne, Hogben pa enkontra
 T. Edmund Harvey – u Liberali Membra de Parliamenta; e kron an pa fini stude in Kambridge
 Hogben pa es an idio sekretari pro brevi tem ergo.
-
-(pagina 2:)
 
 Hogben pa ergo pro Paci Societa; e po-co an pa es Sub-edito-pe pro loka nova-papira;
 iso-tem an pa kontinu u-ci ergo brevi tem po proto doci zoologi in Birkbek Kolegi.
@@ -168,8 +176,6 @@ pa lisi; e po-co, pa gene divorci.
 
 Hogben pa gene game itera tem 1957 a boni ami ge-nima Jane. Mu pa viagia ad Afrika.
 
-(pagina 3:)
-
 Po fini ergo in Birmingham Universita; Hogben pa gene invita de es Vice-Ministra de
 Universita de Britani Guiana; an pa spende solo oligo meno de un anua la.
 
@@ -245,9 +251,6 @@ pa detekti plu mero fo paleo nova-papira; e bi-ci ami ne pa pote sto se prende p
 e lekto mu. Mo mero pa es fo ge-skizo ex “Daily Telegraph”; id pa es un artikla de u bibli
 revista – feno – de u lingua-bibli e u nova-papira-pe pa nima id “Hogben's Hogwash”
 (No-semane Disipa ex Hogben). Ron fo amo plu grafo de Profesora
-
-(pagina 4:)
-
 Lancelot Hogben (inklude plu bibli “Science for the Citizen”, e “Mathematics for the
 Million”) e an imedia pa gene interese; mali-fortuna pa es solo pusi mero artikla;
 anti-co, Ron pa sti memo se de cerka u-la lingua-bibli in futura.
@@ -333,8 +336,6 @@ plus-co id ofere eduka valu ad ali-pe qi gene-sko de id.
 Ko mega auxi ex Sa. Evelyn Jerrard, tem 1998 GEO pa gene id proto puta-me. Seqe-co, na pa
 pote proto publika plu ma boni Glosa bibli in oligo lingua; po-co na pa proto ma mega
 difusi u lingua.
-
-(pagina 5:)
 
 Ex u-la tem Ron e mi pa unio ko poli ami de poli landa; e na pa fru poli hedo e amusa
 visita e diskusi. Non-hedo, na plus, pa lose oligo fo boni ami. Sa. Evelyn Jerrard fo
@@ -427,8 +428,6 @@ monstra id es facili e boni pro poli pe; na nece puta de poli hetero mode de gen
 ma-lati ge-ski.
 
                                                                                Wendy Ashby
-
-(pagina 6:)
 
 === Glosa in Inter-reti
 
@@ -532,8 +531,6 @@ seminari. E mi doxo; id sio es boni; si Glosa gene ma auxi interese ex plu
 lingua-skience-pe.
 
                                                                            Marcel Springer
-
-(pagina 7:)
 
 [pikto: urba kon kastela]
 
@@ -645,8 +642,6 @@ Mi nu-pa proto face plu Glosa Plu Inter-reti-pagina; place visita mu:
 - http://www.members.AOL.com/sydpidd/page1.htm
 - http://www.members.AOL.com/sydpidd/eeee.htm
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn084_enigma_pagina.png[Enigma Pagina,align="center"]
@@ -729,8 +724,6 @@ Mi dice itera; mega gratia a panto Glosa-pe; na spe oligo tu fu visita e auxi na
 futuri.
 
 Sr. Banobi Herbert, Rukungiri, Uganda.
-
-(pagina 2:)
 
 === Uganda
 
@@ -822,8 +815,6 @@ a panto-pe qi volu id.
 Mo problema ko poli Glosa-pe es; mu freqe kine mu eko-lo. Place memo de bali tu neo eko-lo
 a mi; mi ski oligo lekto-pe in Afrika, Cina e USA nu-pa kine; e mi atende audi ex mu pre
 mi pote bali mu PGN 84.
-
-(pagina 3:)
 
 === Universita de Eva Tri
 
@@ -941,8 +932,6 @@ ____
 
 //         Anon.
 
-(pagina 4:)
-
 === Grama ex Ruski
 
 Saluta!
@@ -1036,8 +1025,6 @@ simpli mode; pro plu Euro-pe. Inter-tem, na habe PGN pro kambio de plu idea.
 
 Poli saluta ex Wendy
 
-(pagina 5:)
-
 === Grama ex London
 
 Karo Wendy,
@@ -1111,8 +1098,8 @@ Sr. Leonard A. Sekibaha in Pangani, Tanzania nu habe e-posta: Tourinfo@habari.co
 Tanzania ne es fo boni; e mali-fortuna oligo grama e PGN ne ariva. Na doxo; u-ci fax e
 e-posta eko-lo fu es ma boni.
 
-Es nu mero Glosa-Magyr traduce in Inter-reti; vide id per: http://www.glosa.org/brevi/
-magyar.htm.
+Es nu mero Glosa-Magyr traduce in Inter-reti; vide id per:
+http://www.glosa.org/brevi/magyar.htm.
 
 Plus-co, tu pote vide mero “18 Steps” bibli; u-ci nu-pa gene proto ex Marcel Springer in
 Hamburg, Deutschlanda. http://www.glosa.org/en/g18s.htm.
@@ -1139,9 +1126,6 @@ hetero landa; u-ci logi fu evita plu ero de translati. Exempla: mo komerci-pe pa
 plu hidroauli-malea (hydraulic ram); sed in translati pa nima id aqa-ovis (water-sheep). E
 mo manuface-pe de vesti-lava-ma ne pa memo de versi plu seqe de “pre” e “po” de plu
 fotografi in mu Arabi publika-ma. Seqe-co, plu Arabi-pe qi lekto ex dextro a
-
-(pagina 6:)
-
 laevo; pa vide plu ge-lava-vesti ki ad in lava-me – e po-co, mu pa veni ex no-ge-lava!
 Plu-la komerci-pe qi monstra u boni logi de loka kulturi freqe gene u maxi vendo sucede.
 
@@ -1187,6 +1171,9 @@ singu di dice. Su-toto mu es fo ge-amo de plu demo de France e Deutschlanda. Exe
 Deutschlanda Lexi-lista ex singu tetra lexi mo lexi veni ex Latin alo Grek. Sa. Henriette
 Walter grafo de u-ci in fe bibli de France-lingua ge-nima: “L'Aventure des Mots Français
 venus d'ailleurs”.
+
+// XXX FIXME -- U seqe paragrafo es mis-forma. U bibli nima es qo? U cita es
+// qo?
 
 Fe grafo: “Le latin et le grec en concurrence
      Kompeti inter Latin e Grek.
@@ -1249,8 +1236,6 @@ kardia-pato.
 
 (Vide Supra-sito artikla in PGN 80)
 
-(pagina 7:)
-
 Ci es mi musika de u poesi “Kosmo Glosa”.
 Mi pa volu dona simpli melodi ad u-ci poesi, kausa:
 
@@ -1279,8 +1264,6 @@ A tu veri
 Gary Miller.
 
 [grafo de Glosa-Marca]
-
-(pagina 8:)
 
 === Enigma Pagina
 
@@ -1383,9 +1366,6 @@ ge-grafo lingua inklude plu lexi de Englanda -lingua.
 Cirka 260,000 persona dice Islanda-lingua. Id pa eske un oficio matri-lingua kron Islanda
 pa gene no-depende ex Danmark tem 1944. U Danmark-lingua es lingua-bi de poli Islanda-pe.
 Un Islanda-lingua pa muta fo pusi; seqe-co, plu persona dura pote lekto plu paleo
-
-(pagina 2:)
-
 stori (Saga); e plu-ci stori pa gene grafo ma de 700 anua retro. Plura-pe nima u lingua
 "Latino de u Boreo".
 
@@ -1479,8 +1459,6 @@ geologi, agrikulti e religio aktivi. Id alti es 155 metri supra mari libela.
 
 (Glastonbury)
 
-(pagina 3:)
-
 Pre poli anua, posi tem Centi Anua Nona; pe pa tekto u domi-fa qi pa es u monako-do epi
 akro de u Tor. Nu u solo mero u-ci monako-do qi existe nu es u religio-do turi qi pe pa
 tekto tem Centi Anua Mo-tetra. Es poli pa-stori de fantasi, misteri e de plu spiritu e
@@ -1533,8 +1511,8 @@ bibli. Pa du es oligo muta a Glosa lingua e vokabulari ex publika de plu proto G
 verba-bibli; e pe facili pa adapta a plu-ci pusi muta.
 
 Ci es bi freqe ero. Mo lexi qi feno re-veni es “ke”. U-ci pa es in plu paleo Glosa bibli.
-Na pa sto uti id po publika PGN 50 tem 1990. Id ne es in “Glosa 6000” ,“Central Glosa”,
-ali in“18 Steps”; e mi ne ski u kausa id nu-pa re-veni.
+Na pa sto uti id po publika PGN 50 tem 1990. Id ne es in “Glosa 6000”, “Central Glosa”,
+ali in “18 Steps”; e mi ne ski u kausa id nu-pa re-veni.
 
 Vice-co, na uti u semi-kolon (;). U semi-kolon es fo funktio; id divide un artikla ad in
 plu frasi.
@@ -1606,18 +1584,16 @@ Ci es mero ex Deutsch; ex gradu 8, pagina 39
 | Klude / apri u fenestra    | das Fenster schließen / öffnen
 |===
 
-(pagina 4:)
+// XXX TODO --
 
 NOTE: In ge-printa PGN, sed minus in u-ci HTML-versio: "Tri Andro in Navi" ex Jerome K.
 Jerome ("Three Men in a Boat") "Drei Mann in einem Boot", Glosa-Deutsch paraleli textu,
 vide http://www.glosa.org/dt/g18s.htm.
 
-(pagina 5:)
+// XXX TODO --
 
 NOTE: In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski
 "18 Gradu", vide http://www.glosa.org/brevi/ru18s.htm.
-
-(pagina 6:)
 
 === Teknologi-Glosa
 
@@ -1717,8 +1693,6 @@ amo gene plu idea e auxi de grafo e expande u seqe lista.
 | Tool box                 | Ru-teka
 | Text frame               | textu-qadra
 |===
-
-(pagina 7:)
 
 === Plu Mega Litera
 
@@ -1830,8 +1804,6 @@ habe u deviati de mo metri. Na nece atende; a kron fu es ma-dinamo GPS satelita;
 u ge-skema GALILEO satelita reti fu proto difusi plu direkti signali. Plu-ci fu dona u
 pote de ski un exakti loka de oligo centrimetri; e plus-co, dona u-la info fo tako; e
 seqe-co, auxi plu ago-pe reakti ma tosto.
-
-(pagina 8:)
 
 === Enigma Pagina
 
@@ -1954,8 +1926,6 @@ media, poli neo lexi nu du veni ad in lexi-lista de Kweyol.
 U proto English-Kweyol/ Kweyol-English lexi-bibli ex Jones Mondesir pa gene publika tem
 1992. Id buta es de “registra info de u struktura de u-la lingua e de auxi plu dice-pe
 tena mu logi de id minus un influ de plu lexi de English.
-
-(pagina 2:)
 
 ==== Oligo Kweyol lexi
 
@@ -2090,8 +2060,6 @@ Gareth Clee,
 
 Cardiff, Cymru.
 
-(pagina 3:)
-
 R{dot} In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
 Glosa lista na habe plu alo nima pro plu meno e plu di, mu es ci.
 
@@ -2216,8 +2184,6 @@ Id es ka-co, na pa inklude plu brevi stori in PGN ex kron a kron. Sr. Gary Mille
 Glosa famili in USA freqe translati plu-ra ad in Glosa. An nu-pa bali brevi stori; vide id
 in epi pagina 7 de u-ci PGN.
 
-(pagina 4:)
-
 === Lingua de plu Fito
 
 In internatio nomenklatura singu fito e zoa habe bi nima. Nima-mo es u famili nima; e
@@ -2318,8 +2284,6 @@ Heliantus Greko (helios- Eng. the sun e -anthos a flower). Plu flori tropi a hel
 Herniaria Greko (hernia Eng. a rupture). Ge-nima kausa pe pa doxo; u-ci fito pa habe plu
 terapi profito.
 
-(pagina 5:)
-
 Hidrangea Greko (hydor- Eng. water e -aggos a jar. Refere a plu frukti; mu habe forma de
 plu tasa.
 
@@ -2414,8 +2378,6 @@ Veronika Ge-nima ex Saint Veronika.
 
 Vinka Latino (vincio Eng. to bind). U-ci fito kresce e volve se per plu fragma, mura,
 dendro e plu hetero fito.
-
-(pagina 6:)
 
 === Kura pro plu Fito
 
@@ -2524,8 +2486,6 @@ Qe “plu tro-ergo pove-pe” kanta es mira? Plu Glosa-pe ski; Glosa es u ma bon
 detekti epi panto-la navi. Glosa-pe; fo voci!
 
 Gary Miller, Mandan, USA.
-
-(pagina 7:)
 
 === U Limo-nasa Kapri
 
@@ -2653,8 +2613,6 @@ Pa es tanto ple de somni u-la momenta;
 Kron mi pa abandon u veri via.
 ____
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn087_enigma_pagina.png[Enigma Pagina,align="center"]
@@ -2751,8 +2709,6 @@ ex Sr. Rainer Asenkerschbaumer.
 
 (Wendy Ashby e plu ami dice pro filma)
 
-(pagina 2:)
-
 ==== Liliana Cavani – grafo-pe
 
 Liliana Cavani pa es mo de plu maxi duce filma-face-fe in Italia pre 1978. Fe rejekti de
@@ -2844,9 +2800,6 @@ Kardia de Glosa.
 Po-co, es u ma-mega lexi-lista; qi ofere poli simonima; plura mu habe ma longi lexi; qi es
 fo ge-amo ko plu-la persona; qi amusa se de grafo poesi, literature e plu komplexi
 lexi-enigma. Pe es libe de uti idio grafo-mode;
-
-(pagina 3:)
-
 e tem ma civi ex poli landa uti Glosa; id fu dura de develop e kresce id idio mode. Si pe
 grafo fo gravi info; e mu volu panto-pe de klari logi id; id es gravi de boni uti plu
 mekani; e de uti plu brevi e facili frasi.
@@ -2952,8 +2905,6 @@ fu vide; id pa es pre fonetika Glosa.
 (Ron Clark)
 
 Sr. Ron Clark ko an Glosa “Western Daily Press”
-
-(pagina 4:)
 
 === Un Hedo Andro
 
@@ -3074,9 +3025,6 @@ extra u domi u pusi e obesi andro pa ki ex. An pa hesita u brevi tem kron an pa 
 
 Mi pa dice ad an de mi problema; e an pa petitio mi de veni in an domi. An pa eko in norma
 domi de Espania; kon u ge-pave-lo. An konsili-ka qi pa duce ex
-
-(pagina 5:)
-
 id; pa es ge-spora per poli bibli, papira plu medika-me e poli hetero-ra. U-ci vista posi
 sio sti fobo u timidi pato-pe. Post mi visita mi pa qestio u preci de an servi. An pa dice
 no per an kefa e pa sub-ridi.
@@ -3217,8 +3165,6 @@ Ge-kade e frigi e morta.
 Translati ex Sr.Gary Miller, USA.
 ____
 
-(pagina 6:)
-
 === Plu Kondimenta
 
 Na uti plu kondimenta te dona ma boni gusta a na sito; e te sto id dekomposi fo tako. Id
@@ -3320,8 +3266,6 @@ Id dona fo boni gusta e sti termo plu vegeta e karni formula. Plus-co, id es bon
 in plu plaka e biskokta; supra-toto si mu tena cokolata. Te face zingiber tea; fria pusi
 mero zingiber radi ad in tea-va. Po circa penta minuta fusi ad in tasa; e mixa ko pusi
 mero citru-suku e meli.
-
-(pagina 7:)
 
 === Sporta ko Glosa
 
@@ -3458,8 +3402,6 @@ Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation.
 
 http://www.rightlivelihood.org
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn088_enigma_pagina.png[Enigma Pagina,align="center"]
@@ -3554,8 +3496,6 @@ E fo gravi, mo alo ma vicina-civi sio pote tako komunika kon alelo.
 Poli-pe protesta de plu lingua problema in EU; anti-co, feno mu ne habe iso mega interese
 alo stimula te auxi solve id. Un EU fu habe qanto membra; e fu uti qanto lingua pre plu
 duce oficiali-pe akti te solve u-ci tako kresce problema?
-
-(pagina 2:)
 
 === Plu qestio e reakti
 
@@ -3659,8 +3599,6 @@ mega gratia ad panto Glosa-pe qi dona auxi e difusi de Glosa. E sura mi hedo ben
 artikla e info te inklude in PGN.
 
 Wendy
-
-(pagina 3:)
 
 === Plu ge-face lingua
 
@@ -3778,14 +3716,10 @@ Anti-co, “The Artificial Language Movement” dona u fo uti-ple introduce ad I
 de id histori e de id nu stato. Id es u bibli; qi fu interese poli Glosa-pe si mu ne a nu
 pa vide id.
 
-(pagina 4:)
-
 // XXX TODO --
 
 NOTA: In ge-printa PGN, sed minus in u-ci HTML-versio: "Glosa-Mekani in Portuguese", vide
 MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc.
-
-(pagina 5:)
 
 === U pusi ju-fe de u mari
 
@@ -3888,8 +3822,6 @@ U-ci es ge-brevi ex Portuguese stori “A Menina do Mar” ge-grafo ex Sofia de 
 | chorar        | cry, weep        | pleurer          | lakrima
 | gritar        | cry, shout       | crier            | voci
 |===
-
-(pagina 6:)
 
 === U ski de u tetra-anua ju-pe
 
@@ -4185,15 +4117,11 @@ image::pgn089_enigma_pagina.png[Enigma Pagina,align="center"]
 
 == Numera 90
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn090_enigma_pagina.png[Enigma Pagina,align="center"]
 
 == Numera 91
-
-(pagina 8:)
 
 === Enigma Pagina
 
@@ -4201,17 +4129,12 @@ image::pgn091_enigma_pagina.png[Enigma Pagina,align="center"]
 
 == Numera 92
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn092_enigma_pagina.png[Enigma Pagina,align="center"]
 
 == Numera 93
 
-(pagina 8:)
-
 === Enigma Pagina
 
 image::pgn093_enigma_pagina.png[Enigma Pagina,align="center"]
-

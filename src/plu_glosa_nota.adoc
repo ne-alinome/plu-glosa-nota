@@ -1,7 +1,13 @@
-= Plu Glosa Nota (proto skema {revdate})
+= Plu Glosa Nota (skema {revdate})
 :revdate: 2018-11-23
+:toc:
+:toc-levels: 3
+:imagesdir: img
+:note-caption: Nota
 
-// Last modified 201811230040
+:dot: .
+
+// Last modified 201811230115
 
 == Numera 84
 
@@ -400,7 +406,7 @@ per bali tu plu idea e plu nova de plu aktivi. Mega gratia!
 
       Ex Wendy
 
-N\. B.
+N{dot} B.
 Panto aktivi e plu bibli-vendo (inklude PGN) nu es per na karita: Glosa Education
 Organisation,
 P. O. Box 18, Richmond, Surrey, TW9 2GE, U.K.
@@ -641,7 +647,9 @@ Mi nu-pa proto face plu Glosa Plu Inter-reti-pagina; place visita mu:
 
 (pagina 8:)
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn084_enigm.png
+=== Enigma Pagina
+
+image::pgn084_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -879,23 +887,25 @@ English; ci es mero id.
 
 === Why English is hard to learn
 
-You have to marvel at the lunacy of a language in which your house can burn up as it burns
-down, in which you fill in a form by filling it out and in which an alarm goes off by
-going on.
+You have to marvel at the lunacy of a language in which your house can
+burn up as it burns down, in which you fill in a form by filling it
+out and in which an alarm goes off by going on.
 
-....Doesn't it seem crazy that you can make amends but not one amend, that you comb
-through annals of history but not a single annal?
+Doesn't it seem crazy that you can make amends but not one amend, that
+you comb through annals of history but not a single annal?
 
-......If teachers have taught, why haven't preachers praught?
+If teachers have taught, why haven't preachers praught?
 
 If a vegetarian eats vegetables, what does a humanitarian eat?
 
 In what language do people recite at a play and play at a recital?
 
-.......English reflects the creativity of the human race (which of course, it isn't a race
-at all). That is why, when the stars are out, they are invisible.
+English reflects the creativity of the human race (which of course, it
+isn't a race at all). That is why, when the stars are out, they are
+invisible.
 
-And why when I wind up my watch, I start it, but when I wind up this essay, I end it?
+And why when I wind up my watch, I start it, but when I wind up this
+essay, I end it?
 
 Ci es hetero amusa poesi de plu no-facili de English.
 
@@ -1041,12 +1051,12 @@ tu.
 
 // XXX TODO -- nexu:
 
-......... PGN 84 re-sti mi interese in Glosa.
+PGN 84 re-sti mi interese in Glosa.
 Mi spe; nu-fu vide tu itera.
 
-      Poli kardia saluta
-         ex Tosho,
-            London, England.
+Poli kardia saluta
+ex Tosho,
+London, England.
 
 Mi pa gene poli grama simi u-ci; anti-co mi pa inklude u-ci grama kausa fo tristi, na
 nu-pa lose na ami Tosho.
@@ -1256,6 +1266,7 @@ fotografi; fe kanto ko mi, mi gina Barbara e fe ma-juve sorori Suzannah.
 [pikto de Miller famili]
 
 Place grafo a fe: Johannah Miller
+
 ....
 409-7 Ave NW,
 Mandan ND.
@@ -1271,7 +1282,9 @@ Gary Miller.
 
 (pagina 8:)
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn085_enigm.png
+=== Enigma Pagina
+
+image::pgn085_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1595,14 +1608,14 @@ Ci es mero ex Deutsch; ex gradu 8, pagina 39
 
 (pagina 4:)
 
-... In ge-printa PGN, sed minus in u-ci HTML-versio: "Tri Andro in Navi" ex Jerome K.
+NOTE: In ge-printa PGN, sed minus in u-ci HTML-versio: "Tri Andro in Navi" ex Jerome K.
 Jerome ("Three Men in a Boat") "Drei Mann in einem Boot", Glosa-Deutsch paraleli textu,
-vide http://www.glosa.org/dt/g18s.htm. ...
+vide http://www.glosa.org/dt/g18s.htm.
 
 (pagina 5:)
 
-... In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski "18 Gradu", vide http://
-www.glosa.org/brevi/ru18s.htm. ...
+NOTE: In ge-printa PGN, sed minus in u-ci HTML-versio: mero de ruski
+"18 Gradu", vide http://www.glosa.org/brevi/ru18s.htm.
 
 (pagina 6:)
 
@@ -1820,7 +1833,9 @@ seqe-co, auxi plu ago-pe reakti ma tosto.
 
 (pagina 8:)
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn086_enigm.png
+=== Enigma Pagina
+
+image::pgn086_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1964,20 +1979,23 @@ Simi Glosa, plu klavi-lexi (verb) de Kweyol habe zero flexi. Te forma u tem; pe 
 brevi lexi pre u klavi-lexi.
 
 Exempla: “té” = pa; “ka” = nu; e “kay” = fu.
-- Mw_ té-alé =     Mi pa ki.
-- Mw_ ka-alé =    Mi nu ki
-- Mw_ kay-alé =   Mi fu ki.
+
+- Mw_ té-alé = Mi pa ki.
+- Mw_ ka-alé = Mi nu ki.
+- Mw_ kay-alé = Mi fu ki.
+
+// XXX FIXED -- "Mw_ ka-alé = Mi nu ki[.]"
 
 === Plu qestio e reakti
 
 Plu lekto-pe de “Plu Glosa Nota” freqe bali plu qestio de Glosa; ci es oligo questio; mi
 nu-pa gene.
 
-Q\. Fe-bovi = a female ox, cow.
+Q{dot} Fe-bovi = a female ox, cow.
 
 Fe bovi = her cow. Qe es posi konfusi ci?
 
-R\. Id panto-kron auxi de ski u kontextu. Si tu inklude un exempla frase; mi ma facili pote
+R{dot} Id panto-kron auxi de ski u kontextu. Si tu inklude un exempla frase; mi ma facili pote
 dona u-la translati qi evita konfusi. Freqe u-ci es per adi un hetero lexi ad u-la frase.
 
 U fe-bovi pa sedi epi gra = The cow sat on the grass.
@@ -1993,22 +2011,22 @@ tako-grafo pe freqe uti fe bovi.
 
 Bovi-fe = cow girl. Bovi-an = cow boy
 
-Q\. Qe u lexi ‘plu’ es nece pre numera-lexi ko nomina-lexi? Qe na dice: Mi vide plu poli
+Q{dot} Qe u lexi ‘plu’ es nece pre numera-lexi ko nomina-lexi? Qe na dice: Mi vide plu poli
 zoa in parka.= I see many animals in the park. Alo Mi vide poli zoa in parka?
 
-R\. “Plu” indika es ma de mo. U numera-lexi indika un exakti alo proxi qantita; e ko-co, u
+R{dot} “Plu” indika es ma de mo. U numera-lexi indika un exakti alo proxi qantita; e ko-co, u
 lexi ‘plu’ es no nece. Seqe-co, de bi-ci exempla u frase bi es korekti. Na ne sio uti
 “plu” in u-ci frase si na uti plu seqe exempla: poli zoa, panto zoa, oligo zoa, plura zoa,
 zero zoa, qanto zoa? mo zoa, bi zoa, tri zoa, etc.
 
-Q\. Qe pe nu-pa muta struktura de u Glosa frase?
+Q{dot} Qe pe nu-pa muta struktura de u Glosa frase?
 
 Mi vide oligo Inter-reti Glosa-pe nu du uti plu neo struktura qi ne es ur-Glosa a mi. Mo
 exempla mi nu pa vide es:
 
 An ki domi. An ki ad an domi. E An ki a domi. Te translati Englanda-lingua: He goes home.
 
-R\. U frase: An ki domi. ne dona sati info.
+R{dot} U frase: An ki domi. ne dona sati info.
 
 Exempla mo persona posi translati id; His moving house, alo klu His caravan. Anti-co,
 rota-do posi es ma boni pro Glosa 1000; e u lexi karavana es in Mega Glosa.
@@ -2022,10 +2040,10 @@ A domi = at home, indoors alo towards home; id auxi de habe u kontextu; e te evi
 konfusi; id es panto-kron posi de adi mo alo plu lexi. Exempla: An es in an auto domi. An
 es in u domi de an. An ki ad an auto domi.
 
-Q\. U pusi numera de Glosa-pe feno aktivi re-face Glosa; vice uti id. Qe id sio es ma
+Q{dot} U pusi numera de Glosa-pe feno aktivi re-face Glosa; vice uti id. Qe id sio es ma
 profito; si vice-co, mu auxi per uti e difusi id?
 
-R\. Ja mi akorda ko tu. Anti-co, poli speci persona gene interese de Glosa pro poli speci
+R{dot} Ja mi akorda ko tu. Anti-co, poli speci persona gene interese de Glosa pro poli speci
 kausa. Posi tu pa detekti u grega de plu-la persona qi fo amo dice de plu internatio
 lingua; e qi plus-co, amo face plu neo lingua. Posi mu akti u-ci per trakto mero mu
 lexi-lista e struktura ex Glosa. Probabli plu-ci persona ne es fo zelo pro Glosa. Ne
@@ -2040,9 +2058,9 @@ Poli persona de plu hetero natio lingua nu logi e uti Glosa; u-ci monstra u ling
 funktio fo boni. Simi tu, mi ma amo spende mi tem uti e difusi id; e du kontinu u splendid
 ergo de Lancelot Hogben e Ron Clark.
 
-Q\. Qe u Glosa lexi ‘bate’ signifi un English lexi strike, hit e plus-co, to go on strike?
+Q{dot} Qe u Glosa lexi ‘bate’ signifi un English lexi strike, hit e plus-co, to go on strike?
 
-R\. Bate = hit, beat, strike.
+R{dot} Bate = hit, beat, strike.
 
 Bate u bola. Hit the ball.
 
@@ -2058,7 +2076,7 @@ Plu ergo-pe pa sto ergo kausa de u disputa.
 
 The workers went on strike because of a dispute.
 
-Q\. Mega gratia de “Glosa 6000” e PGN; qi mi nu-pa merka. Mi pa gene sti mira; de logi
+Q{dot} Mega gratia de “Glosa 6000” e PGN; qi mi nu-pa merka. Mi pa gene sti mira; de logi
 Glosa ta facili ex solo uti u-ci lexi-lista e plu mekani de Glosa.
 
 Mi vide; tu uti u lexi Decembra vice meno mo-bi. Qe tu habe un alo-lista pro plu meno?
@@ -2074,11 +2092,10 @@ Cardiff, Cymru.
 
 (pagina 3:)
 
-R\. In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
+R{dot} In Centra Glosa 1000 na uti meno-mo, meno-bi, etc. e plus-co, di-mo, di-bi. In Mega
 Glosa lista na habe plu alo nima pro plu meno e plu di, mu es ci.
 
 .Plu Meno
-
 |===
 | Meno-mo       | Januari
 | Meno-bi       | Februari
@@ -2126,7 +2143,7 @@ mu fonetika. Vide un artikla Lingua de plu Fito in u-ci PGN.
 
 // XXX TODO -- nexu u artikla de fito
 
-Q\. Karo plu ami,
+Q{dot} Karo plu ami,
 
 Mi doxo; u munda pote existe minus plu internatio auxi lingua; id nu habe u fo mega ge-uti
 lingua – u lingua de Cina. Ka-co; mi doxo; na ne volu ali internatio auxi lingua. Mi ski;
@@ -2143,7 +2160,7 @@ Sr. Kari Mallat,
 
 Lempaala, Suomi.
 
-R\. In PGN, ex kron a kron na pa grafo oligo artikla de plu facili-ra de gene sko de
+R{dot} In PGN, ex kron a kron na pa grafo oligo artikla de plu facili-ra de gene sko de
 Cina-lingua. E de plu-la simi-ra de id struktura e de u struktura de Glosa. Exempla: ambi
 bi-ci lingua habe pusi centra lexi-lista e zero flexio. E mu evita plu longi e komplexi
 frase. Anti-co, na zero-kron doxo; Cina-lingua es sati gru de es un Internatio Auxi
@@ -2179,7 +2196,7 @@ tem tu kura stude id; tu fu gene sko de plu hetero-ra; so, u-la stude-tem ne sio
 disipa. Tu auto pote elekti si tu volu juga ko plu-la persona qi dice de plu lingua; alo
 jugo ko plu-la persona uti Glosa e auxi te difusi id ma lati.
 
-Q\. Mi doxo; na nece habe u ma mega qantita de literatura ge-grafo in Glosa. Mi auto; dura
+Q{dot} Mi doxo; na nece habe u ma mega qantita de literatura ge-grafo in Glosa. Mi auto; dura
 fo amo de translati plu stori ad in Glosa pro plu juve-pe. Mi sio amo audi ex ali
 Glosa-ami qi volu akti u-ci. Po-co, mi pote kolekti plu-ci stori ad alelo; te ofere mu per
 Inter-reti.
@@ -2190,7 +2207,7 @@ rgaskell@zeta.org.au
 
 Cabramatta, NSW. Australia.
 
-R\. Karo Robin mega gratia de tu dura auxi difusi Glosa. Ja, akorda! Plu juve-pe stori es
+R{dot} Karo Robin mega gratia de tu dura auxi difusi Glosa. Ja, akorda! Plu juve-pe stori es
 fo ge-amo per oligo Glosa-pe; inklude plu juve-pe e plu ma-paleo-pe. Sura, u nece pro ma
 mega qantita literature du kreske; e plu Glosa-ami petitio id de poli tema inklude plu
 brevi stori.
@@ -2638,7 +2655,9 @@ ____
 
 (pagina 8:)
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn087_enigm.png
+=== Enigma Pagina
+
+image::pgn087_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -3425,15 +3444,25 @@ pro tu speci kupra.
 Panto na habe u teknologi unda veni a na. Id es u maxi mega teknologi unda; u munda a nu
 pa vide. E id gene duce per plu maxi mega komercia de u munda. Na nece habe un internatio
 konveni te metri u valu de plu neo teknologi; un internatio lega struktura te analisi mu e
-te tena na ante
+te tena na ante.
 
-.”Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation.
+Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation.
+
+
+// XXX REMARK -- ur-ero in HTML:
+
+// te tena na ante
+//
+// .”Ex “Cornerstones” publikatio de The Right Livelihood Award Foundation.
+
 
 http://www.rightlivelihood.org
 
 (pagina 8:)
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn088_enigm.png
+=== Enigma Pagina
+
+image::pgn088_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -3753,8 +3782,8 @@ pa vide id.
 
 // XXX TODO --
 
-... In ge-printa PGN, sed minus in u-ci HTML-versio: "Glosa-Mekani in Portuguese", vide
-MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc. ...
+NOTA: In ge-printa PGN, sed minus in u-ci HTML-versio: "Glosa-Mekani in Portuguese", vide
+MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc.
 
 (pagina 5:)
 
@@ -3763,7 +3792,6 @@ MS-Word-dokumenta http://www.glosa.org/pgn/portmek.doc. ...
 (mari-zoa Hipokampus)
 
 ....
-
 A menina do mar                                U pusi ju-fe de u mari
 
 “Eu sou uma menina do mar. Chamo-me Menina     “Mi es u pusi ju-fe de u mari. Pe nima mi
@@ -4147,9 +4175,10 @@ Te vide u-ci brevi stori kon Espanol translati visita: http://www.glosa.org/brev
 
 Vide ma longi lista de plu puta-me lexi in PGN 86
 
-Enigma Pagina: place vide http://www.glosa.org/pic/pgn089_enigm.png
+=== Enigma Pagina
+
+image::pgn089_enigma_pagina.png[Enigma Pagina,align="center"]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
-

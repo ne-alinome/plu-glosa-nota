@@ -7,7 +7,7 @@
 
 :dot: .
 
-// Last modified 201811230115
+// Last modified 201811230122
 
 == Numera 84
 
@@ -4182,3 +4182,36 @@ image::pgn089_enigma_pagina.png[Enigma Pagina,align="center"]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
+
+== Numera 90
+
+(pagina 8:)
+
+=== Enigma Pagina
+
+image::pgn090_enigma_pagina.png[Enigma Pagina,align="center"]
+
+== Numera 91
+
+(pagina 8:)
+
+=== Enigma Pagina
+
+image::pgn091_enigma_pagina.png[Enigma Pagina,align="center"]
+
+== Numera 92
+
+(pagina 8:)
+
+=== Enigma Pagina
+
+image::pgn092_enigma_pagina.png[Enigma Pagina,align="center"]
+
+== Numera 93
+
+(pagina 8:)
+
+=== Enigma Pagina
+
+image::pgn093_enigma_pagina.png[Enigma Pagina,align="center"]
+

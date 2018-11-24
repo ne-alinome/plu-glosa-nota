@@ -7,20 +7,28 @@
 
 :dot: .
 
-// Last modified 201811230133
+// Last modified 201811240103
 
 // =============================================================
-//
-// This document is a project under development, by Marcos Cruz
+
+// U-ci dokumenta nu-du is u ge-developo projekti de Marcos Cruz
+// (programandala.net), 2018; ex plu existe info in glosa.org; Marcel
+// Springer tena qi.
+
+// This document is a project under development by Marcos Cruz
 // (programandala.net), 2018, based on the contents available in
 // glosa.org, which are maintained  by Marcel Springer.
-//
+
+// U-ci dokumenta es Asciidoctor formati (viska asciidoctor.org)
+
 // This document is in Asciidoctor format (see asciidoctor.org)
-//
+
 // =============================================================
 
-== Numera 84
+// Numera 84 (2001-05..2001-06) {{{1
+== Numera 84 (2001-05..2001-06)
 
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota [Glosa logo]                 ┃
@@ -35,6 +43,8 @@
 Numera 84                       Mai / Juni 2001                             ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Bi sti mira-andro de Glosa
 
@@ -51,7 +61,7 @@ alo Hogben alo Clark.
 
 === Profesora Lancelot Hogben
 
-[pikto de Hogben bibli]
+[pikto: Hogben bibli]
 
 Profesora Lancelot Hogben pa gene nati Decembra 9, 1895; plu parenta pa nima an po
 Metodisti religio doci-pe u Reverend Lancelot Railton. Plu parenta famili pa veni ex
@@ -191,6 +201,8 @@ alo de plu hetero intelekti interese.
 
 U fu-anua, 22, August 1975 Hogben pa lose bio.
 
+// XXX TODO -- formati
+
 Tu pote lekto ma de Hogben in bibli: “Lancelot Hogben, Scientific Humanist – An
 unauthorised autobiography”
 Plu edito-pe: Adrian & Anne Hogben.
@@ -199,7 +211,7 @@ ISBN 0 85036-470-1 Preci: £14.95
 
 === Ron Clark
 
-[pikto de Ron Clark]
+[pikto: Ron Clark]
 
 Ronald Charles Clark pa gene nati in St. Pancras, London, 28 April 1914. An matri Lilian
 pa es fo kali gina; e iso Ron fe pa habe leuko kapila, plu ciano oku, e pa es u piktu de
@@ -650,8 +662,10 @@ image::pgn084_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2005-09-20 ... 2009-04-25.
 
-== Numera 85
+// Numera 85 (2001-09..2001-11) {{{1
+== Numera 85 (2001-09..2001-11)
 
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota [Glosa logo]                 ┃
@@ -666,6 +680,8 @@ image::pgn084_enigma_pagina.png[Enigma Pagina,align="center"]
 Numera 85                   Septembra-Novembra 2001                         ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Glosa in Uganda
 
@@ -700,7 +716,7 @@ te dice de prepara pro id kontinu futuri.
 Na centra es in Rukungiri Regio, in ocide mero Uganda. Id es solo tetra kilometri ex Mega
 Densi Natio Parka; u-ci es internatio famo kausa; id es un eko-lo de plu Monti Gorila.
 
-[mapa de Uganda]
+[pikto: mapa de Uganda]
 
 U strategi poste na klasi es: U Nyundo Monti Gorila konserva Projekti. Id promise te gene
 stimula e krati e plu konserva-pe, e plu konserva-organiza. Na ergo ko Burwindi Natio
@@ -1248,7 +1264,7 @@ Mi pa volu dona simpli melodi ad u-ci poesi, kausa:
 Mi fe-fili Johannah sio amo habe u Glosa gram-ami. Fe habe 10 anua. Tu pote vide fe in
 fotografi; fe kanto ko mi, mi gina Barbara e fe ma-juve sorori Suzannah.
 
-[pikto de Miller famili]
+[pikto: Miller famili]
 
 Place grafo a fe: Johannah Miller
 
@@ -1263,7 +1279,7 @@ A tu veri
 
 Gary Miller.
 
-[grafo de Glosa-Marca]
+[pikto: grafo de Glosa-Marca]
 
 === Enigma Pagina
 
@@ -1273,8 +1289,10 @@ image::pgn085_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2009-04-25 ... 2009-05-31.
 
-== Numera 86
+// Numera 86 (2002-02) {{{1
+== Numera 86 (2002-02)
 
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
@@ -1289,6 +1307,8 @@ image::pgn085_enigma_pagina.png[Enigma Pagina,align="center"]
 Numera 86                       Februari 2002                               ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Energi pro Futura
 
@@ -1813,8 +1833,10 @@ image::pgn086_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
-== Numera 87
+// Numera 87 (2002-12..2003-02) {{{1
+== Numera 87 (2002-12..2003-02)
 
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
@@ -1829,6 +1851,8 @@ image::pgn086_enigma_pagina.png[Enigma Pagina,align="center"]
 Numera 87                 Decembra 2002 - Februari 2003                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Plu Lingua In Englanda
 
@@ -2621,8 +2645,12 @@ image::pgn087_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
-== Numera 88
+// Numera 88 (2003-12..2004-02) {{{1
+== Numera 88 (2003-12..2004-02)
 
+// XXX TODO -- Sura u datu de u-ci numera.
+
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
@@ -2637,6 +2665,8 @@ image::pgn087_enigma_pagina.png[Enigma Pagina,align="center"]
 Numera 88                 Decembra 2002 - Februari 2003                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Munda komunika e loka dice
 
@@ -3410,8 +3440,10 @@ image::pgn088_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
-== Numera 89
+// Numera 89 (2004-12..2005-02) {{{1
+== Numera 89 (2004-12..2005-02)
 
+////
 ....
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                 Plu Glosa Nota (Glosa logo)                 ┃
@@ -3426,6 +3458,8 @@ image::pgn088_enigma_pagina.png[Enigma Pagina,align="center"]
 Numera 89                 Decembra 2004 - Februari 2005                     ISSN 0265-6892
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ....
+////
+
 
 === Ma Mega Europa
 
@@ -4080,7 +4114,7 @@ Te vide u-ci brevi stori kon Espanol translati visita: http://www.glosa.org/brev
 
 // XXX TODO -- adapti plu-ci nota:
 
-[Nota: un Español textu ne es in PGN, solo ci in inter-reti versio.]
+NOTE: Un Español textu ne es in PGN, solo ci in inter-reti versio.
 // Fonta de Espanol textu pa es
 //    http://www.geocities.com/rociocatte/index/meditaciones_taoistas.htm
 
@@ -4115,24 +4149,28 @@ image::pgn089_enigma_pagina.png[Enigma Pagina,align="center"]
 
 // http://www.glosa.org, 2005-06-26 ... 2008-02-26.
 
+// Numera 90 {{{1
 == Numera 90
 
 === Enigma Pagina
 
 image::pgn090_enigma_pagina.png[Enigma Pagina,align="center"]
 
+// Numera 91 {{{1
 == Numera 91
 
 === Enigma Pagina
 
 image::pgn091_enigma_pagina.png[Enigma Pagina,align="center"]
 
+// Numera 92 {{{1
 == Numera 92
 
 === Enigma Pagina
 
 image::pgn092_enigma_pagina.png[Enigma Pagina,align="center"]
 
+// Numera 93 {{{1
 == Numera 93
 
 === Enigma Pagina

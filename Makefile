@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201811220057
+# Last modified 201812101456
 # See change log at the end of the file
 
 # ==============================================================
@@ -12,6 +12,8 @@
 # - asciidoctor
 # - asciidoctor-pdf
 # - pandoc
+# - pdfimages
+# - tesseract
 
 # ==============================================================
 # Config
@@ -59,6 +61,76 @@ clean:
 		$(target)/*.pdf \
 		$(target)/*.rtf \
 		$(target)/*.xml
+
+# ==============================================================
+# Extract the texts from the original scanned PDF
+
+# NOTE:
+#
+# This is only a tool to facilite extracting texts from individual pages of the
+# old issues of _Plu Glosa Nota_.  The OCR-ed texts are not automatically
+# integrated into the target documents.
+#
+# The original PDF files, from www.glosa.org, must be in the <original>
+# directory.
+
+# ----------------------------------------------
+# OCR individual pages
+
+# Usage example for extracting the text from page 5 of PGN 41:
+#
+# 	make original/pgn041-005.txt
+
+original/%.txt: original/%.ppm
+
+original/%-001.ppm: original/%.pdf
+	pdfimages -p -f 1 -l 1 $< $(basename $<)
+	mv $(basename $<)-001-000.ppm $@
+
+original/%-002.ppm: original/%.pdf
+	pdfimages -p -f 2 -l 2 $< $@
+	mv $(basename $<)-002-000.ppm $@
+
+original/%-003.ppm: original/%.pdf
+	pdfimages -p -f 3 -l 3 $< $@
+	mv $(basename $<)-003-000.ppm $@
+
+original/%-004.ppm: original/%.pdf
+	pdfimages -p -f 4 -l 4 $< $@
+	mv $(basename $<)-004-000.ppm $@
+
+original/%-005.ppm: original/%.pdf
+	pdfimages -p -f 5 -l 5 $< $@
+	mv $(basename $<)-005-000.ppm $@
+
+original/%-006.ppm: original/%.pdf
+	pdfimages -p -f 6 -l 6 $< $@
+	mv $(basename $<)-006-000.ppm $@
+
+original/%-007.ppm: original/%.pdf
+	pdfimages -p -f 7 -l 7 $< $@
+	mv $(basename $<)-007-000.ppm $@
+
+original/%.txt: original/%.ppm
+	tesseract $< $(basename $@)
+
+# ----------------------------------------------
+# OCR all PDF
+
+# XXX TODO -- Finish and test.
+
+pdf_files=$(sort $(notdir $(basename $(wildcard original/*.pdf))))
+
+.PHONY: ocr
+ocr:
+	for file in $(pdf_files);\
+	do \
+		pdfimages original/$${file}.pdf original/$${file};\
+		for image in $$(ls original/$${file}*.ppm);\
+		do \
+			tesseract $${image} $${image};\
+		done;\
+	done
 
 # ==============================================================
 # Convert to DocBook
@@ -138,3 +210,5 @@ $(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
 # Change log
 
 # 2018-11-22: Start. Copy from the project _18 Steps to Fluency in Euro-Glosa_.
+#
+# 2018-12-10: Add rules to OCR the original PDFs.

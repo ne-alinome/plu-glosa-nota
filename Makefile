@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201812101456
+# Last modified 201902221326
 # See change log at the end of the file
 
 # ==============================================================
@@ -195,14 +195,11 @@ $(target)/$(book).adoc.pdf: $(book).adoc
 # ==============================================================
 # Convert to RTF
 
-# XXX FIXME -- Both LibreOffice Writer and AbiWord don't read this RTF file
-# properly. The RTF marks are exposed. It seems they don't recognize the format
-# and take it as a plain file.
-
 $(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
 	pandoc \
 		--from=docbook \
 		--to=rtf \
+		--standalone \
 		--output=$@ \
 		$<
 
@@ -212,3 +209,5 @@ $(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
 # 2018-11-22: Start. Copy from the project _18 Steps to Fluency in Euro-Glosa_.
 #
 # 2018-12-10: Add rules to OCR the original PDFs.
+#
+# 2019-02-22: Fix RTF output: `--standalone` was missing.

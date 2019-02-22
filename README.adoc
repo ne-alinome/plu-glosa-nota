@@ -1,50 +1,23 @@
 = Plu Glosa Nota
 :author: Marcos Cruz (programandala.net)
-:revdate: 2018-11-21
+:revdate: 2019-02-22
 
 == English
 
-Goal of this project:
+Goal of this project: Convert the newsletter _Plu Glosa Nota_ (Glosa
+Notes), which was published by Glosa Education Organisation, into
+http://asciidoctor[Asciidoctor] format, out of the HTML, DOC and PDF
+versions, which are available in http://glosa.org[glosa.org], in order
+to create an e-book in EPUB and other formats.
 
-Convert the newsletter _Plu Glosa Nota_ (Glosa Notes), published by
-Glosa Education Organisation, into http://asciidoctor[Asciidoctor]
-format, out of the HTML, DOC and PDF versions, which are available in
-http://glosa.org, in order to create an b-book in EPUB and other
-formats.
-
-Author's website: http://programandala.net
-
-== Español
-
-Objetivo de este proyecto:
-
-Convertir el boletín  _Plu Glosa Nota_ (Notas de Glosa), publicado por
-la Glosa Education Organisation (Organización de Educación sobre
-Glosa), al formato http://asciidoctor[Asciidoctor], a partir de la
-versiones en HTML, DOC y PDF disponibles en http://glosa.org, con el
-objeto de crear un libro digital en formato en EPUB y otros.
-
-Sede del autor: http://programandala.net
-
-== Esperanto
-
-Celo de ĉi projekto:
-
-Traduki la bultenon  _Plu Glosa Nota_ (Glosaj Notoj), publikigitan de
-Glosa Education Organisation (Glosa Eduka Organizo), en
-http://asciidoctor[Asciidoctor]-formaton, el la HTML-aj, DOC-aj kaj
-PDF-aj versioj disponeblaj en http://glosa.org, cele krei bitlibrojn
-EPUB-an kaj ali-formatajn.
-
-Ret-paĝaro de la aŬtoro: http://programandala.net
+Project's website: http://ne.alinome.net[ne.alinome.net]
 
 == Glosa
 
-U tende de u-ci projekti:
+U tende de u-ci projekti: Muta u buletina _Plu Glosa Nota_; qi pa es
+ge-publika ex Glosa Education Organisation; ad-in
+http://asciidoctor[Asciidoctor] formati; ab HTML, DOC e PDF dokumenta;
+qi existe in http://glosa.org[glosa.org]; te face un EPUB e-bibli e
+plu plus formati.
 
-Muta u buletina _18 Steps to Fluency in Euro-Glosa_; qi es ge-publika ex
-Glosa Education Organisation; ad-in http://asciidoctor[Asciidoctor]
-formati; ab HTML, DOC e PDF dokumenta; qi existe in http://glosa.org;
-te face un EPUB e-libri e plu plus formati.
-
-Inter-reti-lo de autori: http://programandala.net
+Inter-reti-lo de u projekti: http://ne.alinome.net[ne.alinome.net]

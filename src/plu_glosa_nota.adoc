@@ -8,6 +8,7 @@ ifdef::backend-html[]
 :toc: auto
 :toclevels: 3
 :toc-title: Plu in-ra
+endif::[]
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
@@ -426,9 +427,9 @@ de Glosa e Ron. U-ci PGN es na neo skala ana in Histori de Glosa. Poli tu lekto-
 petitio pro PGN de kontinu; place auxi mi kontinu face id u stimula e amusa publikatio;
 per bali tu plu idea e plu nova de plu aktivi. Mega gratia!
 
-   Plu ami saluta
+Plu ami saluta
 
-      Ex Wendy
+Ex Wendy
 
 N{dot} B.
 Panto aktivi e plu bibli-vendo (inklude PGN) nu es per na karita: Glosa Education
@@ -450,7 +451,7 @@ sed de ofere facili komunika inter plu demo in holo munda. Glosa nu existe; e Gl
 monstra id es facili e boni pro poli pe; na nece puta de poli hetero mode de gene id
 ma-lati ge-ski.
 
-                                                                               Wendy Ashby
+Wendy Ashby
 
 === Glosa in Inter-reti
 
@@ -496,18 +497,19 @@ Mi ski; plu hetero auxi lingua habe ma kali Inter-reti pagina; posi ko ma kroma.
 dura ergo te sti ma-boni qalita; e sti ma mega un elekti de info la. Anti-co, place visita
 http://www.glosa.org!
 
-      Marcel Springer
-      Hamburg, Deutschland.
+Marcel Springer
 
-                                Glosa Kanta in Inter-reti
+Hamburg, Deutschland.
 
-Karo plu Glosa-ami; na famili, Gary, Barbara Jo, Johannah (9) e Suzannah (7) nu kanta in
-Marcel Springer Inter-reti-pagina. Place vide na piktu la; e audi na: (http://www.glosa.org/en
-/audi.htm).
+=== Glosa Kanta in Inter-reti
+
+Karo plu Glosa-ami; na famili, Gary, Barbara Jo, Johannah (9) e
+Suzannah (7) nu kanta in Marcel Springer Inter-reti-pagina. Place vide
+na piktu la; e audi na: (http://www.glosa.org/en/audi.htm).
 
 Ci es plu lexi de mo de na kanta epi u-la pagina.
 
-=== Rubi Fluvi Vali
+==== Rubi Fluvi Vali
 
 [verse]
 ____
@@ -556,11 +558,11 @@ gene interese de plu-la boni-ra de Glosa. Mi spe; Glosa fu gene plu neo ami ex u
 seminari. E mi doxo; id sio es boni; si Glosa gene ma auxi interese ex plu
 lingua-skience-pe.
 
-                                                                           Marcel Springer
+Marcel Springer
 
 === Un Urba Kon U Kastela
 
-image::pgn_084_03_urba_con_kastela.jpg[Urba kon kastela,align="center"]
+image::pgn_084_03_urba_kon_kastela.jpg[Urba kon kastela,align="center"]
 
 [verse]
 ____
@@ -1205,8 +1207,8 @@ venus d'ailleurs”.
 // XXX FIXME -- U seqe paragrafo es mis-forma. U bibli nima es qo? U cita es
 // qo?
 
-Fe grafo: “Le latin et le grec en concurrence
-     Kompeti inter Latin e Grek.
+Fe grafo: “Le latin et le grec en concurrence”
+Kompeti inter Latin e Grek.
 Ex pre plu cent-anua, si ali-pe pa volu krea plu neo lexi in France-lingua; bi maxi ge-amo
 lingua a qi pe pa versi es bi paleo lingua; qi pe ne nu dice; mu es Klasika-Latin e
 Paleo-Grek.
@@ -2630,11 +2632,12 @@ Wendy Ashby
 
 === U Divina Komedi
 
-(Dante Alighieri)                         (paleo bibli)
+// XXX TODO -- Images:
+// (Dante Alighieri) (paleo bibli)
 
-                    Ex Dante Alighieri
+Ex Dante Alighieri
 
-                  Translati ex Ron Clark.
+Translati ex Ron Clark.
 
 [verse]
 ____
@@ -2792,7 +2795,7 @@ Christoph Schutte pa grafo u kritici de ‘Qo akti?’ in Deutschlanda nova-papi
 
 Zeitung’ tem Juni 2003. Ci es mero u-la textu ge-translati ad in Glosa.
 
-                                         Qo akti?
+==== Qo akti?
 
 Ergo ex Mathilde ter Heijne in Galerie Martina Detterer.
 

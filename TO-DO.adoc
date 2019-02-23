@@ -2,7 +2,8 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-02-23
 
-- Restore the scanned pages "Enigma pagina", which are corrupted.
+- Restore the scanned pages "Enigma pagina", which are corrupted. They
+  look right only in the PDF target.
 - Fix: the Miller's email image is not legible in PDF.
-- Fix: layout of article's authors.
+- Fix: paragraph "Le latin et le grec en concurrence".
 

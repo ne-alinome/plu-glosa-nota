@@ -1,5 +1,5 @@
-= Plu Glosa Nota (skema {revdate})
-:revdate: 2018-11-23
+= Plu Glosa Nota
+:revdate: 2019-02-23
 :toc:
 :toc-levels: 3
 :imagesdir: img
@@ -7,21 +7,22 @@
 
 :dot: .
 
-// Last modified 201811240103
+// Last modified 201902231138
 
 // =============================================================
 
 // U-ci dokumenta nu-du is u ge-developo projekti de Marcos Cruz
-// (programandala.net), 2018; ex plu existe info in glosa.org; Marcel
-// Springer tena qi.
+// (programandala.net) pro http://ne.alinome.net, 2018-2019; ex plu
+// existe info in http://glosa.org; Marcel Springer tena qi.
 
 // This document is a project under development by Marcos Cruz
-// (programandala.net), 2018, based on the contents available in
-// glosa.org, which are maintained  by Marcel Springer.
+// (programandala.net) for http://ne.alinomen.net, 2018-2019, based on
+// the contents available in http://glosa.org, which are maintained by
+// Marcel Springer.
 
-// U-ci dokumenta es Asciidoctor formati (viska asciidoctor.org)
+// U-ci dokumenta es Asciidoctor formati (viska http://asciidoctor.org)
 
-// This document is in Asciidoctor format (see asciidoctor.org)
+// This document is in Asciidoctor format (see http://asciidoctor.org)
 
 // =============================================================
 
@@ -61,7 +62,7 @@ alo Hogben alo Clark.
 
 === Profesora Lancelot Hogben
 
-[pikto: Hogben bibli]
+image::pgn084_01_hogben_bibli.jpg[Hogben bibli,align="center"]
 
 Profesora Lancelot Hogben pa gene nati Decembra 9, 1895; plu parenta pa nima an po
 Metodisti religio doci-pe u Reverend Lancelot Railton. Plu parenta famili pa veni ex
@@ -211,7 +212,7 @@ ISBN 0 85036-470-1 Preci: £14.95
 
 === Ron Clark
 
-[pikto: Ron Clark]
+image::pgn084_02_ron_clark.jpg[Ron Clark,align="center"]
 
 Ronald Charles Clark pa gene nati in St. Pancras, London, 28 April 1914. An matri Lilian
 pa es fo kali gina; e iso Ron fe pa habe leuko kapila, plu ciano oku, e pa es u piktu de
@@ -524,10 +525,13 @@ ____
 Na plus grafo “Justi” u gratis publika-ma in Esperanto e Glosa; ali-pe; qi volu u kopi
 place grafo a na:
 
-      U Miller Famili,
-      409-7 Avenue NW,
-      Mandan, ND., 58554 - 2522, U. S. A.
-      <miller.justi@....net> [Ma neo e-adresa: [E-grama adresa de Gary homo PNG-imagi] ]
+U Miller Famili,
+
+409-7 Avenue NW,
+
+Mandan, ND., 58554 - 2522, U. S. A.
+
+E-posta: image:emailgary.png[justiDOTmiller AT junoDOTcom]
 
 === Glosa in Universita
 
@@ -544,9 +548,9 @@ lingua-skience-pe.
 
                                                                            Marcel Springer
 
-[pikto: urba kon kastela]
-
 === Un Urba Kon U Kastela
+
+image::pgn_084_03_urba_con_kastela.jpg[Urba kon kastela,align="center"]
 
 [verse]
 ____
@@ -711,12 +715,12 @@ tetra-bi stude-pe in mi klasi.
 Tu pote vide bi-seti stude-pe in fotografi infra. Singu di-mo, na unio te stude Glosa; e
 te dice de prepara pro id kontinu futuri.
 
-[pikto: plu stude-pe in Uganda]
+image::pgn085_01_plu_stude-pe_in_uganda.jpg[Plu stude-pe in Uganda,align="center"]
 
 Na centra es in Rukungiri Regio, in ocide mero Uganda. Id es solo tetra kilometri ex Mega
 Densi Natio Parka; u-ci es internatio famo kausa; id es un eko-lo de plu Monti Gorila.
 
-[pikto: mapa de Uganda]
+image::pgn085_02_mapa_de_uganda.png[Mapa de Uganda,align="center"]
 
 U strategi poste na klasi es: U Nyundo Monti Gorila konserva Projekti. Id promise te gene
 stimula e krati e plu konserva-pe, e plu konserva-organiza. Na ergo ko Burwindi Natio
@@ -1264,22 +1268,23 @@ Mi pa volu dona simpli melodi ad u-ci poesi, kausa:
 Mi fe-fili Johannah sio amo habe u Glosa gram-ami. Fe habe 10 anua. Tu pote vide fe in
 fotografi; fe kanto ko mi, mi gina Barbara e fe ma-juve sorori Suzannah.
 
-[pikto: Miller famili]
+image::pgn085_03_miller_famili.jpg[Miller famili,align="center"]
 
 Place grafo a fe: Johannah Miller
 
-....
 409-7 Ave NW,
+
 Mandan ND.
+
 58554-2522, USA.
-E-posta: [E-grama adresa de Gary homo PNG-imagi]
-....
+
+E-posta: image:emailgary.png[justiDOTmiller AT junoDOTcom]
 
 A tu veri
 
 Gary Miller.
 
-[pikto: grafo de Glosa-Marca]
+image::pgn085_04_glosa-marca.png[Grafo de Glosa-Marca,align="center"]
 
 === Enigma Pagina
 
@@ -4120,7 +4125,8 @@ NOTE: Un Español textu ne es in PGN, solo ci in inter-reti versio.
 
 // XXX TODO -- U HTML versio habe plu nota de ge-korekti ero de Español translati
 
-[pikto: larva ko akademi-kefa-ve]
+// XXX TODO --
+// [pikto: larva ko akademi-kefa-ve]
 
 === Brevi lexi-lista de plu lexi ge-uti epi u-ci pagina
 

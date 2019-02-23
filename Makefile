@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902221326
+# Last modified 201902231141
 # See change log at the end of the file
 
 # ==============================================================
@@ -36,12 +36,13 @@ docbook: $(target)/$(book).adoc.xml
 .PHONY: epub
 epub: $(target)/$(book).adoc.xml.pandoc.epub
 
+# XXX OLD
 .PHONY: picdir
 picdir:
 	ln --force --symbolic --target-directory=$(target) ../src/pic
 
 .PHONY: html
-html: picdir $(target)/$(book).adoc.html $(target)/$(book).adoc.plain.html $(target)/$(book).adoc.xml.pandoc.html
+html: $(target)/$(book).adoc.html $(target)/$(book).adoc.plain.html $(target)/$(book).adoc.xml.pandoc.html
 
 .PHONY: odt
 odt: $(target)/$(book).adoc.xml.pandoc.odt
@@ -211,3 +212,5 @@ $(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
 # 2018-12-10: Add rules to OCR the original PDFs.
 #
 # 2019-02-22: Fix RTF output: `--standalone` was missing.
+#
+# 2019-02-23: Don't create <picdir> link.

@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902231141
+# Last modified 201902231204
 # See change log at the end of the file
 
 # ==============================================================
@@ -20,7 +20,7 @@
 
 target=target
 
-VPATH=./src:./$(target)
+VPATH=./src:./target
 
 book=plu_glosa_nota
 
@@ -31,37 +31,37 @@ book=plu_glosa_nota
 all: epub html odt pdf
 
 .PHONY: docbook
-docbook: $(target)/$(book).adoc.xml
+docbook: target/$(book).adoc.xml
 
 .PHONY: epub
-epub: $(target)/$(book).adoc.xml.pandoc.epub
+epub: target/$(book).adoc.xml.pandoc.epub
 
 # XXX OLD
 .PHONY: picdir
 picdir:
-	ln --force --symbolic --target-directory=$(target) ../src/pic
+	ln --force --symbolic --target-directory=target ../src/pic
 
 .PHONY: html
-html: $(target)/$(book).adoc.html $(target)/$(book).adoc.plain.html $(target)/$(book).adoc.xml.pandoc.html
+html: target/$(book).adoc.html target/$(book).adoc.plain.html target/$(book).adoc.xml.pandoc.html
 
 .PHONY: odt
-odt: $(target)/$(book).adoc.xml.pandoc.odt
+odt: target/$(book).adoc.xml.pandoc.odt
 
 .PHONY: pdf
-pdf: $(target)/$(book).adoc.pdf
+pdf: target/$(book).adoc.pdf
 
 .PHONY: rtf
-rtf: $(target)/$(book).adoc.xml.pandoc.rtf
+rtf: target/$(book).adoc.xml.pandoc.rtf
 
 .PHONY: clean
 clean:
 	rm -f \
-		$(target)/*.epub \
-		$(target)/*.html \
-		$(target)/*.odt \
-		$(target)/*.pdf \
-		$(target)/*.rtf \
-		$(target)/*.xml
+		target/*.epub \
+		target/*.html \
+		target/*.odt \
+		target/*.pdf \
+		target/*.rtf \
+		target/*.xml
 
 # ==============================================================
 # Extract the texts from the original scanned PDF
@@ -136,20 +136,13 @@ ocr:
 # ==============================================================
 # Convert to DocBook
 
-$(target)/$(book).adoc.xml: $(book).adoc
+target/$(book).adoc.xml: $(book).adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
 # Convert to EPUB
 
-# NB: Pandoc does not allow alternative templates. The default templates must
-# be modified or redirected instead. They are the following:
-# 
-# /usr/share/pandoc-1.9.4.2/templates/epub-coverimage.html
-# /usr/share/pandoc-1.9.4.2/templates/epub-page.html
-# /usr/share/pandoc-1.9.4.2/templates/epub-titlepage.html
-
-$(target)/$(book).adoc.xml.pandoc.epub: $(target)/$(book).adoc.xml
+target/$(book).adoc.xml.pandoc.epub: target/$(book).adoc.xml
 	pandoc \
 		--from=docbook \
 		--to=epub \
@@ -159,27 +152,28 @@ $(target)/$(book).adoc.xml.pandoc.epub: $(target)/$(book).adoc.xml
 # ==============================================================
 # Convert to HTML
 
-$(target)/$(book).adoc.plain.html: $(book).adoc
+target/$(book).adoc.plain.html: $(book).adoc
 	adoc \
 		--attribute="stylesheet=none" \
 		--quiet \
 		--out-file=$@ \
 		$<
 
-$(target)/$(book).adoc.html: $(book).adoc
+target/$(book).adoc.html: $(book).adoc
 	adoc --out-file=$@ $<
 
-$(target)/$(book).adoc.xml.pandoc.html: $(target)/$(book).adoc.xml
+target/$(book).adoc.xml.pandoc.html: target/$(book).adoc.xml
 	pandoc \
 		--from=docbook \
 		--to=html \
+		--standalone \
 		--output=$@ \
 		$<
 
 # ==============================================================
 # Convert to ODT
 
-$(target)/$(book).adoc.xml.pandoc.odt: $(target)/$(book).adoc.xml
+target/$(book).adoc.xml.pandoc.odt: target/$(book).adoc.xml
 	pandoc \
 		+RTS -K15000000 -RTS \
 		--from=docbook \
@@ -190,13 +184,13 @@ $(target)/$(book).adoc.xml.pandoc.odt: $(target)/$(book).adoc.xml
 # ==============================================================
 # Convert to PDF
 
-$(target)/$(book).adoc.pdf: $(book).adoc
+target/$(book).adoc.pdf: $(book).adoc
 	asciidoctor-pdf --out-file=$@ $<
 
 # ==============================================================
 # Convert to RTF
 
-$(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
+target/$(book).adoc.xml.pandoc.rtf: target/$(book).adoc.xml
 	pandoc \
 		--from=docbook \
 		--to=rtf \
@@ -213,4 +207,4 @@ $(target)/$(book).adoc.xml.pandoc.rtf: $(target)/$(book).adoc.xml
 #
 # 2019-02-22: Fix RTF output: `--standalone` was missing.
 #
-# 2019-02-23: Don't create <picdir> link.
+# 2019-02-23: Don't create <picdir> link. Remove the 'target' variable.

@@ -3,4 +3,6 @@
 :revdate: 2019-02-23
 
 - Restore the scanned pages "Enigma pagina", which are corrupted.
+- Fix: the Miller's email image is not legible in PDF.
+- Fix: layout of article's authors.
 

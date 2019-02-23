@@ -1,13 +1,23 @@
 = Plu Glosa Nota
+:author: Glosa Education Organisation
+:description: Issues of Plu Glosa Nota, the periodical of Glosa Education Organisation
 :revdate: 2019-02-23
-:toc:
-:toc-levels: 3
 :imagesdir: img
 :note-caption: Nota
+ifdef::backend-html[]
+:toc: auto
+:toclevels: 3
+:toc-title: Plu in-ra
+ifdef::backend-pdf[]
+:doctype: book
+:toc: auto
+:toclevels: 3
+:toc-title: Plu in-ra
+endif::[]
 
 :dot: .
 
-// Last modified 201902231138
+// Last modified 201902231204
 
 // =============================================================
 
@@ -16,7 +26,7 @@
 // existe info in http://glosa.org; Marcel Springer tena qi.
 
 // This document is a project under development by Marcos Cruz
-// (programandala.net) for http://ne.alinomen.net, 2018-2019, based on
+// (programandala.net) for http://ne.alinome.net, 2018-2019, based on
 // the contents available in http://glosa.org, which are maintained by
 // Marcel Springer.
 

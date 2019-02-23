@@ -1,23 +1,22 @@
 = Plu Glosa Nota
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-22
+:revdate: 2019-02-23
 
 == English
 
-Goal of this project: Convert the newsletter _Plu Glosa Nota_ (Glosa
-Notes), which was published by Glosa Education Organisation, into
-http://asciidoctor[Asciidoctor] format, out of the HTML, DOC and PDF
-versions, which are available in http://glosa.org[glosa.org], in order
-to create an e-book in EPUB and other formats.
+Goal of this project: Convert the magazine _Plu Glosa Nota_ (Glosa
+Notes), which was published by Glosa Education Organisation, into EPUB
+and other standard formats, out of the HTML, DOC and scanned PDF
+documents, which are available in http://glosa.org[glosa.org], in
+order to make them easier to read.
 
 Project's website: http://ne.alinome.net[ne.alinome.net]
 
 == Glosa
 
-U tende de u-ci projekti: Muta u buletina _Plu Glosa Nota_; qi pa es
-ge-publika ex Glosa Education Organisation; ad-in
-http://asciidoctor[Asciidoctor] formati; ab HTML, DOC e PDF dokumenta;
-qi existe in http://glosa.org[glosa.org]; te face un EPUB e-bibli e
-plu plus formati.
+U tende de u-ci projekti: Muta u jurnali _Plu Glosa Nota_; qi pa es
+ge-publika ex Glosa Education Organisation; ad-in EPUB formati; ex plu
+HTML, DOC e PDF dokumenta; qi existe in http://glosa.org[glosa.org];
+te face mu ma facili de lekto.
 
 Inter-reti-lo de u projekti: http://ne.alinome.net[ne.alinome.net]
